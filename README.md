@@ -1,5 +1,6 @@
-     ** ** SahayaSoochi(సహాయసూచి)
-_Telugu Government Application Generator**_**
+     ** SahayaSoochi(సహాయసూచి)**
+
+**Telugu Government Application Generator"**
 
 "**ప్రతి గళం ప్రభుత్వంతో మాట్లాడాలి. ప్రతి గ్రామానికి ఒక అధికార అభ్యర్థన!"
 Every voice should reach the government. Every village deserves official access.**
@@ -8,7 +9,7 @@ Every voice should reach the government. Every village deserves official access.
 ~Speak, Type, or Upload – Get Your Official Letters in Seconds
  Corpus Collection meets Public Empowerment
 
-# Project Theme
+# 1.Project Theme 
 SahayaSoochi is a people-first, AI-powered tool designed to help rural citizens of Andhra Pradesh and Telangana easily generate formal government application letters in Telugu.
 
 From income certificates to caste validations, this app converts:
@@ -23,9 +24,9 @@ into ready-to-use application drafts in proper Telugu format.
 
 At the same time, it collects valuable spoken and written Telugu corpus for open-source AI — supporting multilingual model training.
 
-###What Users Can Do
+# What Users Can Do
 
-#Feature Description
+# 1.1 Feature Description
 
 -Text Input	Enter name, village, request type to get a letter
 
@@ -37,7 +38,7 @@ At the same time, it collects valuable spoken and written Telugu corpus for open
 
 - Offline Support	Built for rural & low-bandwidth users
 
-# Tech Stack
+# 2. Tech Stack
 -Frontend: Streamlit
 
 -AI Models: Whisper (ASR), Template-based  Generation
@@ -50,14 +51,14 @@ At the same time, it collects valuable spoken and written Telugu corpus for open
 
 -Focus: Offline-first, Telugu-first
 
-#Testing Summary
+# 3.Testing Summary
 - Telangana dialects tested
 - Works on slow 3G connections
 - Font scaling helps elderly users
 - Mobile Telugu input verified
 - Audio size limits conserve bandwidth
 
-#Expected Outcomes
+# 4.Expected Outcomes
 
 Metric	Target
 
@@ -71,14 +72,14 @@ Student Volunteers  	30+
 
 WhatsApp Groups Used	25+
 
-#User Acquisition Strategy
+# 5.User Acquisition Strategy
 - Poster Campaigns: Local Telugu posters in temples, schools, village centers
 -Field Demos: Volunteers guide locals to record and submit requests
 -WhatsApp Sharing: App link and video demo shared in regional groups
 - Guided Drives: In panchayats, hands-on collection sessions
 - Community Champions: Early users help spread the app village-to-village
 
-#Team Members
+# 6.Team Members
 
 Karthikeya – Team Lead, AI Integration & Frontend
 
@@ -90,7 +91,7 @@ Anjali – Outreach Strategy & Field Testing
 
 Sowmya – Deployment, Hosting & Documentation
 
-# Contact
+# 7. Contact
 * Email: karthikeyagundu2005@gmail.com
 
 **Team meambers Gitlab accounts:
