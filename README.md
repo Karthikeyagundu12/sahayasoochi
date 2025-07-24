@@ -94,11 +94,16 @@ Sowmya – Deployment, Hosting & Documentation
 # 7. Contact
 * Email: karthikeyagundu2005@gmail.com
 
-**Team meambers Gitlab accounts:
+**Team meambers Gitlab accounts: 
+
      1.Karthikeya_gundu
+
      2.Muktha2005
+
      3.spandana_gunda
+
      4.Anjaligoud
+     
      5.meegada_sowmya
 
 *Region: Andhra Pradesh, Telangana
