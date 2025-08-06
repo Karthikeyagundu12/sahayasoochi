@@ -1,6 +1,5 @@
 import streamlit as st
 import speech_recognition as sr
-import sounddevice as sd
 import soundfile as sf
 import pandas as pd
 import io
@@ -8,6 +7,7 @@ from datetime import datetime
 import os
 import json
 
+from gemini_api import generate_letter  # ✅ Gemini API integrated
 # UI text translations
 UI_TEXTS = {
     "en": {
