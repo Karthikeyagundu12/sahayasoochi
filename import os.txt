@@ -1,0 +1,11 @@
+import os
+
+folder_path = 'd:/sahayasoochi_voice_app'  # Change this to your folder path
+
+for filename in os.listdir(folder_path):
+    file_path = os.path.join(folder_path, filename)
+    if os.path.isfile(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            print(f'--- {filename} ---')
+            print(file.read())
+            print('\n')

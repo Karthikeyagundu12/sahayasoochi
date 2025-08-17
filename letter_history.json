@@ -1,0 +1,508 @@
+[
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "ప్రభుత్వ ఉద్యోగి,\n[విభాగం పేరు],\n[శాఖ పేరు],\n[నగరం పేరు].\n\nతేదీ: [తేదీ]\n\nకు,\n[అధికారి పేరు],\n[అధికారి హోదా],\n[శాఖ పేరు],\n[నగరం పేరు].\n\nవిషయం: సెలవు అర్జీ\n\nగౌరవనీయ అధికారిగారూ,\n\nనేను, [మీ పేరు], [మీ ఉద్యోగం], [విభాగం పేరు], [శాఖ పేరు]లో పనిచేస్తున్నాను. నాకు  [తేదీ నుండి]  [తేదీ వరకు]  [రోజుల సంఖ్య] రోజుల సెలవు అవసరమని మనవి చేస్తున్నాను.  [సెలవు కారణం - ఉదా: వైద్య పరీక్ష, కుటుంబ కార్యక్రమం]  కారణంగా నాకు ఈ సెలవు అవసరం.\n\nనా సెలవును అనుమతించాలని వినమ్రంగా కోరుతున్నాను.  సెలవు కాలంలో నా బాధ్యతలను [సహోద్యోగి పేరు]  నిర్వహిస్తారని నేను భావిస్తున్నాను.\n\nకృతజ్ఞతలు.\n\n\nనమ్రతగా,\n[మీ సంతకం]\n[మీ పేరు]\n[మీ ఉద్యోగి సంఖ్య]\n[మీ ఫోన్ నంబర్]",
+    "timestamp": "2025-08-16 22:29:35"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\nThe [Relevant Authority/Designation]\n[Department Name]\n[Government Office Address]\n\nSubject: Application for Leave\n\nRespected Sir/Madam,\n\nI am writing to request a leave of absence from my duties as [Your Designation] from [Start Date] to [End Date], a total of [Number] days.  The reason for my leave is [Briefly state reason –  e.g., personal reasons, medical reasons, etc.].\n\nI have completed [mention any urgent tasks completed or handed over] and made arrangements for the smooth functioning of my responsibilities during my absence.  [Optional: Mention colleague covering your work, if applicable].\n\nI shall be grateful if my request is granted.\n\nThank you for your consideration.\n\nSincerely,\n[Your Signature]\n[Your Typed Name]\n[Your Employee ID, if applicable]",
+    "timestamp": "2025-08-16 22:29:32"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\n[The Head of Department/Relevant Authority]\n[Department Name]\n[Government Organization Name]\n[Address]\n\nSubject: Application for Leave\n\nRespected Sir/Madam,\n\nThis letter is to formally request a leave of absence from my duties as [Your Designation] at [Department Name]. I require leave from [Start Date] to [End Date], a total of [Number] days.  The reason for my leave is [Briefly state reason, e.g., personal reasons, medical reasons, etc.].\n\nI have completed [Mention any handover tasks completed or planned] and will ensure a smooth workflow during my absence. I will be available via phone at [Phone Number] if urgently required.\n\nThank you for your consideration.\n\nSincerely,\n[Your Signature]\n[Your Typed Name]",
+    "timestamp": "2025-08-16 22:29:32"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\nThe [Department Head's Name/Designation]\n[Department Name]\n[Government Office Address]\n\nSubject: Application for Leave\n\nRespected Sir/Madam,\n\nI am writing to request a leave of absence from my duties as a [Your Designation] at [Your Department] from [Start Date] to [End Date], a total of [Number] days.  The reason for my leave is [Briefly state reason – e.g., personal reasons, medical reasons, etc.].\n\nI have completed [Mention any pending tasks completed or arrangements made for your absence].  I will ensure all my urgent responsibilities are taken care of before my leave commences.\n\nI would be grateful if you would grant my request.  Thank you for your consideration.\n\n\nSincerely,\n\n[Your Signature]\n[Your Typed Name]\n[Your Employee ID Number]",
+    "timestamp": "2025-08-16 22:29:31"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\n[Head of Department Name]\n[Department Name]\n[Government Office Address]\n\nSubject: Application for Leave\n\nRespected Sir/Madam,\n\nI am writing to request a leave of absence from my duties as [Your Designation] from [Start Date] to [End Date], a total of [Number] days.  The reason for my leave is [Briefly state reason, e.g.,  personal emergency, medical reasons, etc.].\n\nI have completed [Mention any pending work you've completed or arrangements made for handover] and will ensure a smooth handover of my responsibilities before my leave.\n\nI will be available via phone at [Your Phone Number] for any urgent matters.\n\nThank you for your consideration.\n\nSincerely,\n\n[Your Name]\n[Your Employee ID Number]",
+    "timestamp": "2025-08-16 22:29:30"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "ప్రభుత్వ ఉద్యోగి,\n[శాఖ పేరు],\n[కార్యాలయం పేరు],\n[చిరునామా],\n[నగరం], [పిన్ కోడ్].\n\nతేదీ: [తేదీ]\n\nవిషయం: సెలవు అర్జీ\n\nశ్రీ/శ్రీమతి [అధికారి పేరు],\n[అధికారి పదవి],\n[కార్యాలయం పేరు],\n[చిరునామా],\n[నగరం], [పిన్ కోడ్].\n\nగౌరవనీయులైన అధికారిగారు,\n\nనేను [మీ పేరు], [మీ ఉద్యోగం], [మీ శాఖ] లో పనిచేస్తున్నాను. నాకు [తేదీ] నుండి [తేదీ] వరకు [రోజుల సంఖ్య] రోజుల సెలవు అవసరం.  [సెలవు కారణం -  ఉదా: అనారోగ్యం,  కుటుంబ కారణాల వల్ల, ఇతర కారణాలు]  వలన నేను సెలవు అడుగుతున్నాను.\n\nసెలవు మంజూరు చేయమని వినమ్రంగా కోరుతున్నాను.\n\nకృతజ్ఞతలు,\n\n[మీ సంతకం]\n[మీ పేరు]\n[మీ ఉద్యోగి సంఖ్య]\n[మీ ఫోన్ నంబర్]",
+    "timestamp": "2025-08-16 22:29:15"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "శ్రీమతి/శ్రీమంతులు,\n\n[అధికారి పేరు],\n[శాఖ పేరు],\n[ప్రభుత్వ శాఖ పేరు],\n[చిరునామా].\n\nవిషయం: సెలవు అర్జీ.\n\nగౌరవనీయులైన అధికారిగారికి,\n\nనేను [నీ పేరు], [నీ ఉద్యోగం], [నీ శాఖ]లో పనిచేస్తున్నాను. నాకు  [తేదీ నుండి] నుండి [తేదీ వరకు]  [రోజులు] సెలవు అవసరం.  [సెలవు కారణం] కారణంగా నాకు ఈ సెలవు అవసరమవుతోంది.\n\nదయచేసి నా సెలవు అర్జీని ఆమోదించండి.\n\nకృతజ్ఞతలు,\n\n[నీ సంతకం]\n[నీ పేరు]\n[నీ ఉద్యోగం]\n[నీ ఐడీ నంబర్]\n[తేదీ]",
+    "timestamp": "2025-08-16 22:29:14"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "శ్రీమతి/శ్రీ  [అధికారి పేరు],\n[శాఖ పేరు],\n[ఆఫీసు పేరు],\n[చిరునామా].\n\nవిషయం: సెలవు అర్జీ\n\nగౌరవనీయ అధికారులవారు,\n\nనేను [మీ పేరు], [మీ పదవి], [శాఖ పేరు] లో పనిచేయుచున్నాను. నాకు [తేదీ] నుండి [తేదీ] వరకు  [కారణం - ఉదా: అనారోగ్యం, వ్యక్తిగత కార్యక్రమం] కారణంగా సెలవు అవసరం.  దయచేసి నా సెలవు అర్జీని ఆమోదించి,  అవసరమైన సహకారం అందించమని కోరుతున్నాను.\n\nధన్యవాదములు,\n\n[మీ సంతకం]\n[మీ పేరు]\n[మీ ఉద్యోగ సంఖ్య]\n[తేదీ]",
+    "timestamp": "2025-08-16 22:29:13"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "శ్రీమతి/శ్రీమంతులు,\n\n[అధికారి పేరు],\n[శాఖ పేరు],\n[ప్రభుత్వ విభాగం పేరు],\n[చిరునామా].\n\n\nవిషయం: సెలవు అర్జీ\n\n\nగౌరవనీయులైన అధికారిగారికి,\n\n\nనేను [మీ పేరు], [మీ పదవి], [శాఖ పేరు] లో పనిచేస్తున్నాను. నాకు [తేదీ] నుండి [తేదీ] వరకు [కారణం -  ఉదా: వైద్య సలహా మేరకు, కుటుంబ కార్యక్రమం కోసం]  [సంఖ్య] రోజుల సెలవు అవసరమని మనవి చేస్తున్నాను.\n\n\nదయచేసి నా సెలవు అర్జీని ఆమోదించి, అనుగ్రహించగలరని కోరుకుంటున్నాను.  సహకారం కొరకు ముందుగానే కృతజ్ఞతలు తెలియజేస్తున్నాను.\n\n\nభవదీయులు,\n\n\n[మీ సంతకం]\n[మీ పేరు]\n[మీ ఐడి నంబర్]\n[తేదీ]",
+    "timestamp": "2025-08-16 22:29:13"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "కుమారుడు/కుమార్తెకు  అనారోగ్యం కారణంగా సెలవు అర్జీ\n\n\nప్రాధాన్యతగల అధికారికి,\n\n[విభాగం పేరు],\n[ప్రభుత్వ శాఖ పేరు],\n[చిరునామా],\n[నగరం], [రాష్ట్రం] - [పిన్ కోడ్].\n\nవిషయం: సెలవు అర్జీ\n\n\nగౌరవనీయ అధికారిగారూ,\n\nనేను, [మీ పేరు], [మీ ఉద్యోగం], [విభాగం పేరు]లో పనిచేస్తున్నాను. నా కుమారుడు/కుమార్తె [కుమారుడు/కుమార్తె పేరు]  తీవ్ర అనారోగ్యంతో బాధపడుతున్నాడు/బాధపడుతున్నది. అతనికి/ఆమెకు వైద్య సహాయం అవసరం. దీని కారణంగా నాకు  [తేదీ] నుండి [తేదీ] వరకు  [సంఖ్య] రోజుల సెలవు అవసరం.\n\nదయచేసి నా సెలవు అర్జీని ఆమోదించమని కోరుతున్నాను. నా సహకారానికి కృతజ్ఞతలు తెలియజేస్తున్నాను.\n\n\nకృతజ్ఞతలుతో,\n\n\n[మీ సంతకం]\n\n[మీ పేరు]\n[మీ ఉద్యోగం]\n[మీ ఐడి నంబర్]\n[తేదీ]",
+    "timestamp": "2025-08-16 22:29:13"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "కులపతి గారికి,\n[విభాగం పేరు]\n[శాఖ పేరు]\n[ప్రభుత్వం పేరు]\n[నగరం, రాష్ట్రం]\n\n\nవిషయం:  అనుమతి లేఖ\n\n\nగౌరవనీయులైన కులపతి గారూ,\n\n\nనేను, [మీ పేరు], [మీ ఉద్యోగం], [మీ ఉద్యోగ సంఖ్య] గా పనిచేస్తున్నాను. నాకు [తేదీ నుండి] నుండి [తేదీ వరకు]  రోజుల పాటు అనారోగ్యం కారణంగా / [కారణం]  లేఖన అనుమతి అవసరం.  దయచేసి నాకు అనుమతి మంజూరు చేయాలని వినయపూర్వకంగా కోరుతున్నాను.\n\n\nధన్యవాదాలు,\n\n\n[మీ సంతకం]\n[మీ పేరు]\n[మీ ఉద్యోగం]\n[తేదీ]",
+    "timestamp": "2025-08-16 22:29:11"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "ప్రభుత్వ ఉద్యోగి,\n[శాఖ పేరు],\n[శాఖ చిరునామా],\n[నగరం], [రాష్ట్రం] - [పిన్ కోడ్]\n\n\nతేదీ: [తేదీ]\n\n\nకు,\n[అధికారి పేరు],\n[అధికారి పదవి],\n[శాఖ పేరు],\n[శాఖ చిరునామా],\n[నగరం], [రాష్ట్రం] - [పిన్ కోడ్]\n\n\nవిషయం: సెలవు అర్జీ\n\n\nగౌరవనీయ అధికారులవారు,\n\n\nనేను [మీ పేరు], [మీ ఉద్యోగం], [శాఖ పేరు]లో పనిచేస్తున్నాను. నాకు  [తేదీ] నుండి [తేదీ] వరకు  [కారణం] కారణంగా  [సెలవు రకం - ఉదా: వైద్య సెలవు, కుటుంబ సెలవు] అవసరం.\n\n\nదయచేసి నా సెలవు అర్జీని ఆమోదించాలని కోరుతున్నాను.  సహకారం కొరకు ధన్యవాదాలు.\n\n\nభక్తితో,\n\n\n[మీ సంతకం]\n[మీ పేరు]\n[మీ ఉద్యోగి ఐడి]\n[మీ  సంప్రదింపు వివరాలు]",
+    "timestamp": "2025-08-16 22:29:11"
+  },
+  {
+    "intent": "ration_card",
+    "input": "naku ration card kavali\n",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n[Mandal Name] మండలం,\n[District Name] జిల్లా.\n\nవిషయం: కొత్త రేషన్ కార్డు కోసం దరఖాస్తు\n\nగౌరవనీయులైన సర్/మేడం,\n\nనేను, Applicant, [Address] నివాసి, మా కుటుంబానికి కొత్త రేషన్ కార్డు జారీ చేయవలసినదిగా మీ ద్వారా ఈ దరఖాస్తును సమర్పిస్తున్నాను.\n\nకుటుంబ వివరాలు:\nకుటుంబ ముఖ్యస్థుడు: Applicant\nచిరునామా: [Address]\nకుటుంబ సభ్యులు: [Number of Family Members]\nమొత్తం కుటుంబ ఆదాయం: రూ. [Annual Income] సంవత్సరానికి\n\nజతచేసిన పత్రాలు:\n1. చిరునామా ధృవీకరణ\n2. ఆదాయ ధృవీకరణ పత్రం\n3. కుటుంబ ఫోటో\n4. అన్ని కుటుంబ సభ్యుల ఆధార్ కార్డులు\n\nమీ ద్వారా నా దరఖాస్తును పరిశీలించి త్వరలో రేషన్ కార్డు జారీ చేయవలసినదిగా వినతిచేస్తున్నాను.\n\nధన్యవాదాలతో,\nమీ విధేయుడు,\nApplicant\nPhone: Not provided",
+    "language": "telugu",
+    "timestamp": "2025-08-02 11:48:43"
+  },
+  {
+    "intent": "ration_card",
+    "input": "naku ration card kavali\n",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n[Mandal Name] మండలం,\n[District Name] జిల్లా.\n\nవిషయం: కొత్త రేషన్ కార్డు కోసం దరఖాస్తు\n\nగౌరవనీయులైన సర్/మేడం,\n\nనేను, Applicant, [Address] నివాసి, మా కుటుంబానికి కొత్త రేషన్ కార్డు జారీ చేయవలసినదిగా మీ ద్వారా ఈ దరఖాస్తును సమర్పిస్తున్నాను.\n\nకుటుంబ వివరాలు:\nకుటుంబ ముఖ్యస్థుడు: Applicant\nచిరునామా: [Address]\nకుటుంబ సభ్యులు: [Number of Family Members]\nమొత్తం కుటుంబ ఆదాయం: రూ. [Annual Income] సంవత్సరానికి\n\nజతచేసిన పత్రాలు:\n1. చిరునామా ధృవీకరణ\n2. ఆదాయ ధృవీకరణ పత్రం\n3. కుటుంబ ఫోటో\n4. అన్ని కుటుంబ సభ్యుల ఆధార్ కార్డులు\n\nమీ ద్వారా నా దరఖాస్తును పరిశీలించి త్వరలో రేషన్ కార్డు జారీ చేయవలసినదిగా వినతిచేస్తున్నాను.\n\nధన్యవాదాలతో,\nమీ విధేయుడు,\nApplicant\nPhone: Not provided",
+    "language": "telugu",
+    "timestamp": "2025-08-02 11:48:45"
+  },
+  {
+    "intent": "income_certificate",
+    "input": "naku income kavali",
+    "letter": "To,\nThe Tahsildar,\n[Mandal Name] Mandal,\n[District Name] District.\n\nSubject: Application for Income Certificate\n\nRespected Sir/Madam,\n\nI, Applicant, resident of [Address], hereby submit this application requesting you to issue an income certificate for my family.\n\nPersonal Details:\nName: Applicant\nAddress: [Address]\nOccupation: [Occupation]\nAnnual Income: Rs. [Annual Income]\n\nPurpose of Certificate: [Purpose]\n\nDocuments attached:\n1. Salary certificate/Income proof\n2. Address proof\n3. Aadhaar card\n\nI kindly request you to process my application and issue the income certificate at the earliest.\n\nThanking you,\nYours faithfully,\nApplicant\nPhone: Not provided",
+    "language": "english",
+    "timestamp": "2025-08-02 12:42:21"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "Dear Sir/Madam,\n\nnaku leave letter kavali\n\nSincerely,\nApplicant",
+    "language": "english",
+    "timestamp": "2025-08-02 12:54:21"
+  },
+  {
+    "intent": "ration_card",
+    "input": "naku ration card kavali",
+    "letter": "To,\nThe Tahsildar,\n[Mandal Name] Mandal,\n[District Name] District.\n\nSubject: Application for New Ration Card\n\nRespected Sir/Madam,\n\nI, Applicant, resident of [Address], hereby submit this application requesting you to issue a new ration card for my family.\n\nFamily Details:\nHead of Family: Applicant\nAddress: [Address]\nFamily Members: [Number of Family Members]\nTotal Family Income: Rs. [Annual Income] per annum\n\nDocuments attached:\n1. Address proof\n2. Income certificate\n3. Family photo\n4. Aadhaar cards of all family members\n\nI kindly request you to process my application and issue the ration card at the earliest.\n\nThanking you,\nYours faithfully,\nApplicant\nPhone: Not provided",
+    "language": "english",
+    "timestamp": "2025-08-02 12:54:44"
+  },
+  {
+    "intent": "income_certificate",
+    "input": "naku income kavali",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n[Mandal Name] మండలం,\n[District Name] జిల్లా.\n\nవిషయం: ఆదాయ ధృవీకరణ పత్రం కోసం దరఖాస్తు\n\nగౌరవనీయులైన సర్/మేడం,\n\nనేను, Applicant, [Address] నివాసి, మా కుటుంబానికి ఆదాయ ధృవీకరణ పత్రం జారీ చేయవలసినదిగా మీ ద్వారా ఈ దరఖాస్తును సమర్పిస్తున్నాను.\n\nవ్యక్తిగత వివరాలు:\nపేరు: Applicant\nచిరునామా: [Address]\nవృత్తి: [Occupation]\nవార్షిక ఆదాయం: రూ. [Annual Income]\n\nపత్రం ఉపయోగం: [Purpose]\n\nజతచేసిన పత్రాలు:\n1. జీతం ధృవీకరణ/ఆదాయ ధృవీకరణ\n2. చిరునామా ధృవీకరణ\n3. ఆధార్ కార్డు\n\nమీ ద్వారా నా దరఖాస్తును పరిశీలించి త్వరలో ఆదాయ ధృవీకరణ పత్రం జారీ చేయవలసినదిగా వినతిచేస్తున్నాను.\n\nధన్యవాదాలతో,\nమీ విధేయుడు,\nApplicant\nPhone: Not provided",
+    "language": "telugu",
+    "timestamp": "2025-08-02 23:22:26"
+  },
+  {
+    "intent": "income_certificate",
+    "input": "naku income certficate kavali",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n[Mandal Name] మండలం,\n[District Name] జిల్లా.\n\nవిషయం: ఆదాయ ధృవీకరణ పత్రం కోసం దరఖాస్తు\n\nగౌరవనీయులైన సర్/మేడం,\n\nనేను, Applicant, [Address] నివాసి, మా కుటుంబానికి ఆదాయ ధృవీకరణ పత్రం జారీ చేయవలసినదిగా మీ ద్వారా ఈ దరఖాస్తును సమర్పిస్తున్నాను.\n\nవ్యక్తిగత వివరాలు:\nపేరు: Applicant\nచిరునామా: [Address]\nవృత్తి: [Occupation]\nవార్షిక ఆదాయం: రూ. [Annual Income]\n\nపత్రం ఉపయోగం: [Purpose]\n\nజతచేసిన పత్రాలు:\n1. జీతం ధృవీకరణ/ఆదాయ ధృవీకరణ\n2. చిరునామా ధృవీకరణ\n3. ఆధార్ కార్డు\n\nమీ ద్వారా నా దరఖాస్తును పరిశీలించి త్వరలో ఆదాయ ధృవీకరణ పత్రం జారీ చేయవలసినదిగా వినతిచేస్తున్నాను.\n\nధన్యవాదాలతో,\nమీ విధేయుడు,\nApplicant\nPhone: Not provided",
+    "language": "telugu",
+    "timestamp": "2025-08-05 20:48:34"
+  },
+  {
+    "intent": "general",
+    "input": "naku voter id card kavali\n",
+    "letter": "Dear Sir/Madam,\n\nnaku voter id card kavali\n\n\nSincerely,\nApplicant",
+    "language": "english",
+    "timestamp": "2025-08-05 20:49:26"
+  },
+  {
+    "intent": "general",
+    "input": "naku  leave letter kava naku corono vachindi\n",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n\nnaku  leave letter kava naku corono vachindi\n\n\nధన్యవాదాలతో,\nమీ విధేయుడు",
+    "language": "telugu",
+    "timestamp": "2025-08-05 22:07:23"
+  },
+  {
+    "intent": "general",
+    "input": "naku death certficate  kavali\n",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n\nnaku death certficate  kavali\n\n\nధన్యవాదాలతో,\nమీ విధేయుడు",
+    "language": "telugu",
+    "timestamp": "2025-08-06 23:29:43"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n\nnaku leave letter kavali\n\nధన్యవాదాలతో,\nమీ విధేయుడు",
+    "language": "telugu",
+    "timestamp": "2025-08-09 13:00:57"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "Dear Sir/Madam,\n\nnaku leave letter kavali\n\nSincerely,\nApplicant",
+    "language": "english",
+    "timestamp": "2025-08-09 13:01:07"
+  },
+  {
+    "intent": "income_certificate",
+    "input": "naku income cetrficate kavali",
+    "letter": "To,\nThe Tahsildar,\n[Mandal Name] Mandal,\n[District Name] District.\n\nSubject: Application for Income Certificate\n\nRespected Sir/Madam,\n\nI, Applicant, resident of [Address], hereby submit this application requesting you to issue an income certificate for my family.\n\nPersonal Details:\nName: Applicant\nAddress: [Address]\nOccupation: [Occupation]\nAnnual Income: Rs. [Annual Income]\n\nPurpose of Certificate: [Purpose]\n\nDocuments attached:\n1. Salary certificate/Income proof\n2. Address proof\n3. Aadhaar card\n\nI kindly request you to process my application and issue the income certificate at the earliest.\n\nThanking you,\nYours faithfully,\nApplicant\nPhone: Not provided",
+    "language": "english",
+    "timestamp": "2025-08-09 13:01:29"
+  },
+  {
+    "intent": "birth_certificate",
+    "input": "naku birth certficate kavali\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n[Mandal Name] మండలం,\n[District Name] జిల్లా.\n\nవిషయం: పుట్టిన తేదీ ధృవీకరణ పత్రం కోసం దరఖాస్తు\n\nగౌరవనీయులైన సర్/మేడం,\n\nనేను, Applicant, [Address] నివాసి, మా బిడ్డకు పుట్టిన తేదీ ధృవీకరణ పత్రం జారీ చేయవలసినదిగా మీ ద్వారా ఈ దరఖాస్తును సమర్పిస్తున్నాను.\n\nబిడ్డ వివరాలు:\nపేరు: [Child Name]\nపుట్టిన తేదీ: [Date of Birth]\nపుట్టిన ప్రదేశం: [Place of Birth]\nఆసుపత్రి/క్లినిక్: [Hospital Name]\nలింగం: [Gender]\n\nఅవసరమైన పత్రాలను జతచేసి ఉన్నాను:\n1. ఆసుపత్రి డిస్చార్జ్ సమ్మరీ\n2. తల్లిదండ్రుల గుర్తింపు పత్రం\n3. చిరునామా ధృవీకరణ\n\nమీ ద్వారా నా దరఖాస్తును పరిశీలించి త్వరలో పుట్టిన తేదీ ధృవీకరణ పత్రం జారీ చేయవలసినదిగా వినతిచేస్తున్నాను.\n\nధన్యవాదాలతో,\nమీ విధేయుడు,\nApplicant\nPhone: Not provided",
+    "language": "telugu",
+    "timestamp": "2025-08-09 13:16:29"
+  },
+  {
+    "intent": "birth_certificate",
+    "input": "naku birth certficate kavali\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "letter": "To,\nThe Tahsildar,\n[Mandal Name] Mandal,\n[District Name] District.\n\nSubject: Application for Birth Certificate\n\nRespected Sir/Madam,\n\nI, Applicant, resident of [Address], hereby submit this application requesting you to issue a birth certificate for my child.\n\nDetails of the child:\nName: [Child Name]\nDate of Birth: [Date of Birth]\nPlace of Birth: [Place of Birth]\nHospital/Clinic: [Hospital Name]\nGender: [Gender]\n\nI have attached all the required documents including:\n1. Hospital discharge summary\n2. Parent's ID proof\n3. Address proof\n\nI kindly request you to process my application and issue the birth certificate at the earliest.\n\nThanking you,\nYours faithfully,\nApplicant\nPhone: Not provided",
+    "language": "english",
+    "timestamp": "2025-08-09 13:16:45"
+  },
+  {
+    "intent": "birth_certificate",
+    "input": "naku birth certficate kavali\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n[Mandal Name] మండలం,\n[District Name] జిల్లా.\n\nవిషయం: పుట్టిన తేదీ ధృవీకరణ పత్రం కోసం దరఖాస్తు\n\nగౌరవనీయులైన సర్/మేడం,\n\nనేను, Applicant, [Address] నివాసి, మా బిడ్డకు పుట్టిన తేదీ ధృవీకరణ పత్రం జారీ చేయవలసినదిగా మీ ద్వారా ఈ దరఖాస్తును సమర్పిస్తున్నాను.\n\nబిడ్డ వివరాలు:\nపేరు: [Child Name]\nపుట్టిన తేదీ: [Date of Birth]\nపుట్టిన ప్రదేశం: [Place of Birth]\nఆసుపత్రి/క్లినిక్: [Hospital Name]\nలింగం: [Gender]\n\nఅవసరమైన పత్రాలను జతచేసి ఉన్నాను:\n1. ఆసుపత్రి డిస్చార్జ్ సమ్మరీ\n2. తల్లిదండ్రుల గుర్తింపు పత్రం\n3. చిరునామా ధృవీకరణ\n\nమీ ద్వారా నా దరఖాస్తును పరిశీలించి త్వరలో పుట్టిన తేదీ ధృవీకరణ పత్రం జారీ చేయవలసినదిగా వినతిచేస్తున్నాను.\n\nధన్యవాదాలతో,\nమీ విధేయుడు,\nApplicant\nPhone: Not provided",
+    "language": "telugu",
+    "timestamp": "2025-08-09 13:16:54"
+  },
+  {
+    "intent": "general",
+    "input": "naku pension application kavali\n",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n\nnaku pension application kavali\n\n\nధన్యవాదాలతో,\nమీ విధేయుడు",
+    "language": "telugu",
+    "timestamp": "2025-08-10 16:58:02"
+  },
+  {
+    "intent": "general",
+    "input": "naku pension application kavali\n",
+    "letter": "Dear Sir/Madam,\n\nnaku pension application kavali\n\n\nSincerely,\nApplicant",
+    "language": "english",
+    "timestamp": "2025-08-10 16:58:10"
+  },
+  {
+    "intent": "tax_exemption",
+    "input": "tax",
+    "letter": "To,\nThe Municipal Commissioner,\n[Municipality Name] Municipality,\n[District Name] District.\n\nSubject: Application for Property Tax Exemption\n\nRespected Sir/Madam,\n\nI, Applicant, resident of [Address], hereby submit this application requesting you to exempt the property tax levied on my property.\n\nProperty Details:\nProperty Address: [Property Address]\nProperty Type: [Property Type]\nAssessment Number: [Assessment Number]\nCurrent Tax Amount: Rs. [Tax Amount]\n\nReason for Exemption: [Reason for Exemption]\n\nDocuments attached:\n1. Property documents\n2. Income certificate\n3. Disability certificate (if applicable)\n4. Age certificate (if applicable)\n\nI kindly request you to process my application and grant the tax exemption at the earliest.\n\nThanking you,\nYours faithfully,\nApplicant\nPhone: Not provided",
+    "language": "english",
+    "timestamp": "2025-08-10 16:59:44"
+  },
+  {
+    "intent": "tax_exemption",
+    "input": "tax",
+    "letter": "గౌరవ మున్సిపల్ కమిషనర్ గారికి,\n[Municipality Name] మున్సిపాలిటీ,\n[District Name] జిల్లా.\n\nవిషయం: ఆస్తి పన్ను మినహాయింపు కోసం దరఖాస్తు\n\nగౌరవనీయులైన సర్/మేడం,\n\nనేను, Applicant, [Address] నివాసి, నా ఆస్తిపై విధించబడిన ఆస్తి పన్నును మినహాయించవలసినదిగా మీ ద్వారా ఈ దరఖాస్తును సమర్పిస్తున్నాను.\n\nఆస్తి వివరాలు:\nఆస్తి చిరునామా: [Property Address]\nఆస్తి రకం: [Property Type]\nఅంచనా సంఖ్య: [Assessment Number]\nప్రస్తుత పన్ను మొత్తం: రూ. [Tax Amount]\n\nమినహాయింపు కారణం: [Reason for Exemption]\n\nజతచేసిన పత్రాలు:\n1. ఆస్తి పత్రాలు\n2. ఆదాయ ధృవీకరణ పత్రం\n3. వికలాంగ ధృవీకరణ పత్రం (ఉంటే)\n4. వయస్సు ధృవీకరణ పత్రం (ఉంటే)\n\nమీ ద్వారా నా దరఖాస్తును పరిశీలించి త్వరలో పన్ను మినహాయింపును మంజూరు చేయవలసినదిగా వినతిచేస్తున్నాను.\n\nధన్యవాదాలతో,\nమీ విధేయుడు,\nApplicant\nPhone: Not provided",
+    "language": "telugu",
+    "timestamp": "2025-08-10 17:00:23"
+  },
+  {
+    "intent": "general",
+    "input": "general",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n\ngeneral\n\nధన్యవాదాలతో,\nమీ విధేయుడు",
+    "language": "telugu",
+    "timestamp": "2025-08-10 17:08:22"
+  },
+  {
+    "intent": "general",
+    "input": "general application",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n\ngeneral application\n\nధన్యవాదాలతో,\nమీ విధేయుడు",
+    "language": "telugu",
+    "timestamp": "2025-08-10 17:08:35"
+  },
+  {
+    "intent": "caste_certificate",
+    "input": "caste",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n[Mandal Name] మండలం,\n[District Name] జిల్లా.\n\nవిషయం: కుల ధృవీకరణ పత్రం కోసం దరఖాస్తు\n\nగౌరవనీయులైన సర్/మేడం,\n\nనేను, Applicant, [Address] నివాసి, నాకు కుల ధృవీకరణ పత్రం జారీ చేయవలసినదిగా మీ ద్వారా ఈ దరఖాస్తును సమర్పిస్తున్నాను.\n\nవ్యక్తిగత వివరాలు:\nపేరు: Applicant\nతండ్రి పేరు: [Father's Name]\nచిరునామా: [Address]\nకులం: [Caste]\nఉపకులం: [Sub-caste]\n\nజతచేసిన పత్రాలు:\n1. పుట్టిన తేదీ ధృవీకరణ పత్రం\n2. తల్లిదండ్రుల కుల ధృవీకరణ పత్రం\n3. చిరునామా ధృవీకరణ\n4. ఆధార్ కార్డు\n\nమీ ద్వారా నా దరఖాస్తును పరిశీలించి త్వరలో కుల ధృవీకరణ పత్రం జారీ చేయవలసినదిగా వినతిచేస్తున్నాను.\n\nధన్యవాదాలతో,\nమీ విధేయుడు,\nApplicant\nPhone: Not provided",
+    "language": "telugu",
+    "timestamp": "2025-08-10 17:09:09"
+  },
+  {
+    "intent": "tax_exemption",
+    "input": "tax",
+    "letter": "To,\nThe Municipal Commissioner,\n[Municipality Name] Municipality,\n[District Name] District.\n\nSubject: Application for Property Tax Exemption\n\nRespected Sir/Madam,\n\nI, Applicant, resident of [Address], hereby submit this application requesting you to exempt the property tax levied on my property.\n\nProperty Details:\nProperty Address: [Property Address]\nProperty Type: [Property Type]\nAssessment Number: [Assessment Number]\nCurrent Tax Amount: Rs. [Tax Amount]\n\nReason for Exemption: [Reason for Exemption]\n\nDocuments attached:\n1. Property documents\n2. Income certificate\n3. Disability certificate (if applicable)\n4. Age certificate (if applicable)\n\nI kindly request you to process my application and grant the tax exemption at the earliest.\n\nThanking you,\nYours faithfully,\nApplicant\nPhone: Not provided",
+    "language": "english",
+    "timestamp": "2025-08-10 17:10:25"
+  },
+  {
+    "intent": "birth_certificate",
+    "input": "birth certificate kavali",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n[Mandal Name] మండలం,\n[District Name] జిల్లా.\n\nవిషయం: పుట్టిన తేదీ ధృవీకరణ పత్రం కోసం దరఖాస్తు\n\nగౌరవనీయులైన సర్/మేడం,\n\nనేను, Applicant, [Address] నివాసి, మా బిడ్డకు పుట్టిన తేదీ ధృవీకరణ పత్రం జారీ చేయవలసినదిగా మీ ద్వారా ఈ దరఖాస్తును సమర్పిస్తున్నాను.\n\nబిడ్డ వివరాలు:\nపేరు: [Child Name]\nపుట్టిన తేదీ: [Date of Birth]\nపుట్టిన ప్రదేశం: [Place of Birth]\nఆసుపత్రి/క్లినిక్: [Hospital Name]\nలింగం: [Gender]\n\nఅవసరమైన పత్రాలను జతచేసి ఉన్నాను:\n1. ఆసుపత్రి డిస్చార్జ్ సమ్మరీ\n2. తల్లిదండ్రుల గుర్తింపు పత్రం\n3. చిరునామా ధృవీకరణ\n\nమీ ద్వారా నా దరఖాస్తును పరిశీలించి త్వరలో పుట్టిన తేదీ ధృవీకరణ పత్రం జారీ చేయవలసినదిగా వినతిచేస్తున్నాను.\n\nధన్యవాదాలతో,\nమీ విధేయుడు,\nApplicant\nPhone: Not provided",
+    "language": "telugu",
+    "timestamp": "2025-08-10 17:19:54"
+  },
+  {
+    "intent": "general",
+    "input": "naku death certificate kavali\n",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n\nnaku death certificate kavali\n\n\nధన్యవాదాలతో,\nమీ విధేయుడు",
+    "language": "telugu",
+    "timestamp": "2025-08-11 19:35:06"
+  },
+  {
+    "intent": "general",
+    "input": "naku death kavali\n",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n\nnaku death kavali\n\n\nధన్యవాదాలతో,\nమీ విధేయుడు",
+    "language": "telugu",
+    "timestamp": "2025-08-12 19:18:40"
+  },
+  {
+    "intent": "general",
+    "input": "naku compliaint leter kavli\n",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n\nnaku compliaint leter kavli\n\n\nధన్యవాదాలతో,\nమీ విధేయుడు",
+    "language": "telugu",
+    "timestamp": "2025-08-12 19:23:08"
+  },
+  {
+    "intent": "general",
+    "input": "naku death certificate kavali\n\n",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n\nnaku death certificate kavali\n\n\n\nధన్యవాదాలతో,\nమీ విధేయుడు",
+    "language": "telugu",
+    "timestamp": "2025-08-12 19:23:27"
+  },
+  {
+    "intent": "general",
+    "input": "naku death certificate kavali\n\n",
+    "letter": "Dear Sir/Madam,\n\nnaku death certificate kavali\n\n\n\nSincerely,\nApplicant",
+    "language": "english",
+    "timestamp": "2025-08-12 19:23:31"
+  },
+  {
+    "intent": "general",
+    "input": "naku death  kavali",
+    "letter": "గౌరవ తహశీల్దార్ గారికి,\n\nnaku death  kavali\n\nధన్యవాదాలతో,\nమీ విధేయుడు",
+    "language": "telugu",
+    "timestamp": "2025-08-12 19:51:51"
+  },
+  {
+    "intent": "general",
+    "input": "నాకు అప్లికేషన్ డేట్",
+    "letter": "❌ Gemini API error: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "language": "telugu",
+    "timestamp": "2025-08-15 14:14:43"
+  },
+  {
+    "intent": "general",
+    "input": "naku complaint letter kavali\n",
+    "letter": "❌ Gemini API error: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "language": "telugu",
+    "timestamp": "2025-08-15 14:23:11"
+  },
+  {
+    "intent": "birth_certificate",
+    "input": "naku birth certificate kavali\n",
+    "letter": "❌ Gemini API error: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "language": "telugu",
+    "timestamp": "2025-08-15 14:23:36"
+  },
+  {
+    "intent": "birth_certificate",
+    "input": "naku birth certificate kavli\n",
+    "letter": "❌ Gemini API error: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "language": "telugu",
+    "timestamp": "2025-08-15 14:27:19"
+  },
+  {
+    "intent": "birth_certificate",
+    "input": "naku birth certificate kavali\n",
+    "letter": "❌ Gemini API error: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "language": "telugu",
+    "timestamp": "2025-08-15 14:40:34"
+  },
+  {
+    "intent": "general",
+    "input": "certificate kavali\n",
+    "letter": "❌ Gemini API error: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "language": "telugu",
+    "timestamp": "2025-08-15 14:52:19"
+  },
+  {
+    "intent": "general",
+    "input": "naku letter",
+    "letter": "❌ Gemini API error: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "language": "telugu",
+    "timestamp": "2025-08-16 09:49:28"
+  },
+  {
+    "intent": "general",
+    "input": "leave kavali 10 days exam valla",
+    "letter": "```telugu\n[మీ పేరు]\n[మీ ఉద్యోగం]\n[మీ శాఖ]\n[మీ ప్రభుత్వ శాఖ పేరు]\n[తేదీ]\n\n\nవిషయం: పది రోజుల సెలవు అవసరం - పరీక్షల నిమిత్తం\n\n\nగౌరవనీయ శ్రీ/శ్రీమతి [అధికారి పేరు],\n[అధికారి పదవి]\n[ప్రభుత్వ శాఖ పేరు]\n\n\nనమస్కారం,\n\n\nనేను [మీ పేరు], [మీ ఉద్యోగం] గా [ప్రభుత్వ శాఖ పేరు]లో పనిచేస్తున్నాను. నాకు [తేదీ] నుండి [తేదీ] వరకు పది రోజుల సెలవు అవసరం. ఈ కాలంలో నేను [పరీక్ష పేరు] పరీక్షలకు హాజరు కావలసి ఉంది.\n\n\nపరీక్షలకు సరిగ్గా సిద్ధం కావడానికి మరియు నా పరీక్షలకు సమర్థవంతంగా హాజరు కావడానికి ఈ సెలవు అత్యవసరం. నా విధులను నేను సరిగ్గా పూర్తి చేసి, నా పనిని అత్యంత సమర్థవంతంగా పూర్తి చేయడానికి ప్రయత్నిస్తాను.\n\n\nదయచేసి నా అభ్యర్థనను ఆమోదించి, నాకు ఈ సెలవు మంజూరు చేయాలని వినమ్రంగా కోరుతున్నాను.  నాకు ఏవైనా అదనపు వివరణలు అవసరమైతే, దయచేసి నన్ను సంప్రదించండి.\n\n\nకృతజ్ఞతలు,\n\n\n[మీ సంతకం]\n[మీ పేరు]\n[మీ ఉద్యోగం]\n[మీ సంప్రదింపు వివరాలు]\n```\n\n**Translation:**\n\n[Your Name]\n[Your Designation]\n[Your Department]\n[Your Government Department Name]\n[Date]\n\n\nSubject: Request for Ten Days Leave - For Examinations\n\n\nRespected Sir/Madam [Officer's Name],\n[Officer's Designation]\n[Government Department Name]\n\n\nGreetings,\n\n\nI am writing to request a ten-day leave from [Start Date] to [End Date]. During this period, I need to attend the [Exam Name] examinations.\n\n\nThis leave is crucial for me to adequately prepare for and effectively attend my examinations. I will ensure to complete my duties efficiently before my leave and will strive to complete my work as effectively as possible.\n\n\nI humbly request you to approve my request and grant me this leave. Please feel free to contact me if you require any further clarification.\n\n\nThank you,\n\n\n[Your Signature]\n[Your Name]\n[Your Designation]\n[Your Contact Details]\n\n\n**Remember to replace the bracketed information with your own details.**  This is a formal letter, so maintain a respectful and professional tone throughout.  You may need to adjust the wording slightly depending on your specific workplace and internal communication protocols.\n",
+    "language": "telugu",
+    "timestamp": "2025-08-16 10:39:15"
+  },
+  {
+    "intent": "general",
+    "input": "leave kavali 10 days exam valla",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\nThe [Relevant Authority/Department Name]\n[Address of the Authority/Department]\n\n**Subject: Application for Leave – [Your Designation/Position]**\n\nDear Sir/Madam,\n\nThis letter is to formally request a leave of absence for ten (10) days, from [Start Date] to [End Date], inclusive.  This leave is required due to examinations.\n\nI will ensure all my urgent responsibilities are addressed before my leave commences.  I will also be available via phone at [Your Phone Number] for any urgent matters.\n\nThank you for your consideration of this request.\n\nSincerely,\n\n[Your Signature]\n\n[Your Typed Name]\n\n\n**Note:**  Replace the bracketed information with your specific details.  If you need to provide further documentation, like an examination schedule, mention that you will provide it if requested.  The \"Relevant Authority/Department Name\" and \"Address of the Authority/Department\" should be tailored to your specific workplace and its leave application process.\n",
+    "language": "english",
+    "timestamp": "2025-08-16 10:39:43"
+  },
+  {
+    "intent": "general",
+    "input": "\"police ki complaint kavali phone theft gurinchi",
+    "letter": "## పోలీసులకు ఫిర్యాదు - ఫోన్ దొంగతనం గురించి\n\n**ప్రాతినిధ్యం చేసే అధికారికి,**\n\n[పోలీస్ స్టేషన్ పేరు],\n[పోలీస్ స్టేషన్ చిరునామా],\n[నగరం/పట్టణం],\n[రాష్ట్రం].\n\n**విషయం: ఫోన్ దొంగతనం గురించి ఫిర్యాదు**\n\nగౌరవనీయులైన అధికారులవారు, నేను [మీ పేరు], [మీ చిరునామా], [మీ ఫోన్ నంబర్], [మీ ఇమెయిల్ చిరునామా] నివాసిని. నేను ఈ క్రింది విషయం గురించి మీకు ఫిర్యాదు చేయడానికి వ్రాస్తున్నాను.\n\n[తేదీ]న, [సమయం] సమయంలో, నా [ఫోన్ బ్రాండ్ మరియు మోడల్] ఫోన్ నంబర్ [ఫోన్ నంబర్]  [స్థలం] వద్ద దొంగతనం అయింది.  దొంగతనం సమయంలో [దొంగతనం ఎలా జరిగిందో వివరించండి - ఉదా: నేను రోడ్డు మీద నడుస్తున్నప్పుడు, నా చేతి నుండి ఎవరో లాక్కెళ్ళారు.  లేదా, నేను దుకాణంలో ఉన్నప్పుడు దొంగతనం అయింది].\n\n[దొంగ గురించి మీకు తెలిసిన ఏదైనా సమాచారం ఉంటే, దానిని ఇక్కడ వివరించండి - ఉదా:  దొంగ ఎలా ఉన్నాడో, ఏ వాహనంలో వెళ్ళాడో].\n\nనేను ఈ దొంగతనం గురించి వెంటనే పోలీసులకు ఫిర్యాదు చేస్తున్నాను మరియు దొంగను పట్టుకోవడానికి మరియు నా ఫోన్ను తిరిగి పొందడానికి మీ సహాయం కోరుతున్నాను. నా దగ్గర [దొంగతనం జరిగినట్టు నిరూపించే ఏవైనా పత్రాలు ఉంటే వాటిని జత చేస్తున్నాను. ఉదాహరణకు, ఫోన్ కొన్న రశీదు లేదా ఫోన్ యొక్క ఫోటోలు].\n\nమీ సహకారం కోసం కృతజ్ఞతలు తెలుపుతూ,\n\n\nనమ్మకంగా,\n\n[మీ సంతకం]\n\n[మీ పూర్తి పేరు]\n\n\n**గమనిక:**  ఈ లేఖ ఒక నమూనా మాత్రమే. మీ నిర్దిష్ట పరిస్థితులకు అనుగుణంగా  వీలైనంత వివరణాత్మకంగా  మాహితిని అందించండి.  అవసరమైతే  సాక్షుల పేర్లు మరియు చిరునామాలను జతచేయండి.\n",
+    "language": "telugu",
+    "timestamp": "2025-08-16 10:40:35"
+  },
+  {
+    "intent": "general",
+    "input": "\"police ki complaint kavali phone theft gurinchi",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\nThe Officer in Charge\n[Police Station Name]\n[Police Station Address]\n\n**Subject: Formal Complaint Regarding Mobile Phone Theft**\n\nDear Sir/Madam,\n\nThis letter constitutes a formal complaint regarding the theft of my mobile phone.  On [Date of theft], at approximately [Time of theft], my mobile phone, described as follows, was stolen from [Location of theft]:\n\n* **Make and Model:** [Phone Make and Model]\n* **IMEI Number:** [IMEI Number - if known]\n* **Other identifying features:** [e.g., Colour, Case, Any distinguishing marks]\n\nThe circumstances surrounding the theft were as follows: [Provide a clear and concise account of how the phone was stolen. Be factual and avoid speculation.  Include details about any witnesses or potential suspects].\n\nI request that you investigate this matter thoroughly and take appropriate action to recover my stolen phone. I am prepared to cooperate fully with your investigation and provide any further information that may be required.  I have attached copies of [Mention any supporting documents, e.g., purchase receipt, phone insurance details].\n\nThank you for your time and attention to this matter.\n\nSincerely,\n\n[Your Signature]\n\n[Your Typed Name]\n\n\n**Important Note:**  Remember to replace the bracketed information with your specific details.  The more information you can provide, the better the police will be able to assist you.  Consider including details such as the names and contact information of any witnesses. If you have photos of your phone, include those as well.  Keep a copy of this letter for your records.\n",
+    "language": "english",
+    "timestamp": "2025-08-16 10:41:04"
+  },
+  {
+    "intent": "general",
+    "input": "naku tc kavali",
+    "letter": "## టీసీ కోసం దరఖాస్తు\n\n**[మీ పేరు]**\n**[మీ చిరునామా]**\n**[మీ ఫోన్ నెంబర్]**\n**[మీ ఇమెయిల్ చిరునామా]**\n\n**తేదీ: [తేదీ]**\n\n\n**కు**,\n**[సంబంధిత ప్రభుత్వ అధికారి పేరు]**\n**[శాఖ పేరు]**\n**[ప్రభుత్వ కార్యాలయం చిరునామా]**\n\n\n**విషయం: ట్రాన్స్ఫర్ సర్టిఫికెట్ (టీసీ) కోసం దరఖాస్తు**\n\nగౌరవనీయులైన సార్/మేడం,\n\nనేను [మీ పేరు], [మీ తండ్రి పేరు] కుమారుడు/కుమార్తె, [మీ గుర్తింపు నెంబర్ - ఉదా: ఆధార్ నెంబర్] నాకు [మీ పాత పాఠశాల/కళాశాల/సంస్థ పేరు] నుండి ట్రాన్స్ఫర్ సర్టిఫికెట్ (టీసీ) అవసరమవుతుంది. నేను [నీవు వదిలిపెట్టిన తేదీ] నాడు ఈ సంస్థను విడిచిపెట్టాను.\n\nనాకు టీసీ అవసరం ఎందుకంటే [టీసీ అవసరమైన కారణం - ఉదా: నేను కొత్త పాఠశాలలో చేరాలనుకుంటున్నాను].  దయచేసి నాకు టీసీ జారీ చేయాలని కోరుతున్నాను.\n\nఅవసరమైన ఏదైనా అదనపు సమాచారం లేదా డాక్యుమెంట్లు అందించడానికి నేను సిద్ధంగా ఉన్నాను.\n\nమీ సహకారానికి కృతజ్ఞతలు తెలియజేస్తున్నాను.\n\n\n**కృతజ్ఞతలు,**\n\n\n**[మీ సంతకం]**\n**[మీ పేరు]**\n\n\n**గమనిక:**  మీరు పాత సంస్థలో ఏదైనా బకాయిలు ఉన్నాయా అని తనిఖీ చేసుకోండి. బకాయిలు ఉంటే, వాటిని ముందుగానే చెల్లించండి.  అవసరమైతే, మీకు సహాయపడే ఏదైనా రుజువులను (ఉదా:  పాఠశాల/కళాశాల విడిచిపెట్టే సర్టిఫికెట్) జత చేయండి.  అధికారి పేరు మరియు సంస్థ వివరాలు ఖచ్చితంగా ఉండేలా చూసుకోండి.\n",
+    "language": "telugu",
+    "timestamp": "2025-08-16 14:02:27"
+  },
+  {
+    "intent": "general",
+    "input": "naku tc kavali",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\nThe [Relevant Government Department/Ministry]\n[Department Address]\n\n**Subject: Application for Transfer Certificate**\n\nDear Sir/Madam,\n\nThis letter formally requests the issuance of a Transfer Certificate (TC) in my name.  My details are as follows:\n\n* **Name:** [Your Full Name]\n* **Date of Birth:** [Your Date of Birth]\n* **Father's Name:** [Your Father's Name]\n* **Mother's Name:** [Your Mother's Name]\n* **Registration Number/ID Number (if applicable):** [Your Registration/ID Number]\n* **Last Institution Attended:** [Name of Institution]\n* **Reason for requiring the TC:** [ Briefly state your reason, e.g., admission to another institution, employment purposes etc.]\n\n\nI have completed [mention the level of education completed, e.g.,  secondary education, graduation etc.] from [Name of Institution] and require this certificate for [Reiterate your reason]. I understand that all necessary fees will be paid upon the issuance of the certificate.\n\nI would be grateful if you could process my application at your earliest convenience.  I am available to provide any further information or documentation as required.\n\nThank you for your time and consideration.\n\nSincerely,\n\n[Your Signature]\n[Your Typed Name]\n",
+    "language": "english",
+    "timestamp": "2025-08-16 14:02:41"
+  },
+  {
+    "intent": "general",
+    "input": "nakub death certificate kavli",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\n[Name of Government Agency responsible for issuing death certificates]\n[Address of Government Agency]\n\n**Subject: Application for a Copy of Death Certificate – [Deceased's Name]**\n\nDear Sir/Madam,\n\nThis letter is to formally request a copy of the death certificate for [Deceased's Name], who passed away on [Date of Death].  The deceased's date of birth was [Date of Birth].\n\n[Optional: Briefly explain the reason for needing the certificate.  E.g., \"This certificate is required for [Purpose, e.g., inheritance proceedings, pension claim].\"]\n\nI understand that a fee may be applicable for the issuance of this certificate. I am willing to pay the required fee according to your current regulations.\n\nPlease provide information on the necessary documentation required for processing this application and the method of payment accepted.\n\nThank you for your time and consideration.  I look forward to hearing from you soon.\n\nSincerely,\n\n[Your Signature]\n\n[Your Typed Name]\n",
+    "language": "english",
+    "timestamp": "2025-08-16 14:05:14"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali",
+    "letter": "❌ Gemini API error: 400 Content with system role is not supported.",
+    "language": "telugu",
+    "timestamp": "2025-08-16 23:00:22"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter Kavali \n",
+    "letter": "❌ Gemini API error: 400 Content with system role is not supported.",
+    "language": "english",
+    "timestamp": "2025-08-16 23:00:49"
+  },
+  {
+    "intent": "birth_certificate",
+    "input": "\nnaku birth certficate kavali",
+    "letter": "❌ Gemini API error: 400 Content with system role is not supported.",
+    "language": "english",
+    "timestamp": "2025-08-16 23:01:19"
+  },
+  {
+    "intent": "birth_certificate",
+    "input": "birth certificate kavali\n",
+    "letter": "❌ Gemini API error: 400 Content with system role is not supported.",
+    "language": "telugu",
+    "timestamp": "2025-08-16 23:04:22"
+  },
+  {
+    "intent": "birth_certificate",
+    "input": "naku birth certificate kavali",
+    "letter": "❌ Gemini API error: 400 Content with system role is not supported.",
+    "language": "telugu",
+    "timestamp": "2025-08-17 10:37:10"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali\n",
+    "letter": "```telugu\nప్రభుత్వ ఉద్యోగి,\n[విభాగం పేరు],\n[శాఖ పేరు],\n[నగరం పేరు].\n\nవిషయం: సెలవు అర్జీ\n\nగౌరవనీయులైన అధికారులవారికి,\n\nనేను, [మీ పేరు], [మీ ఉద్యోగం], [మీ విభాగం], [మీ శాఖ] లో పనిచేస్తున్నాను.  నాకు [తేదీ నుండి] నుండి [తేదీ వరకు]  [రోజుల సంఖ్య] రోజుల సెలవు అవసరం.  [సెలవు కారణం -  ఉదా: అనారోగ్యం, కుటుంబ కార్యక్రమం, వ్యక్తిగత కారణాలు] కారణంగా ఈ సెలవు అవసరమవుతుంది.\n\nఈ సెలవుకు నా అనుమతిని అనుగ్రహించి,  కృపాకటాక్షం చూపాలని వినమ్రంగా కోరుతున్నాను.  నా సెలవు కాలంలో నా బాధ్యతలను [సహోద్యోగి పేరు]  నిర్వహించగలరు.\n\nమీ అమూల్యమైన సమయానికి కృతజ్ఞతలు.\n\nమీ విధేయులైన,\n\n[మీ పేరు]\n[మీ ఉద్యోగి సంఖ్య]\n[తేదీ]\n[మీ సంతకం]\n```\n\n**English Translation:**\n\nGovernment Employee,\n[Department Name],\n[Ministry Name],\n[City Name].\n\nSubject: Leave Application\n\nTo the Esteemed Officials,\n\nI, [Your Name], working as a [Your Designation] in the [Your Department], [Your Ministry], require leave for [Number] days from [Start Date] to [End Date]. This leave is required due to [Reason for Leave - e.g., illness, family function, personal reasons].\n\nI humbly request you to kindly grant me this leave.  My responsibilities during my leave can be handled by [Colleague's Name].\n\nThank you for your valuable time.\n\nYours Obediently,\n\n[Your Name]\n[Your Employee ID]\n[Date]\n[Your Signature]\n\n\n**Note:**  Please replace the bracketed information with your specific details.  If you have a specific type of leave (sick leave, casual leave, etc.), mention it clearly in the letter.",
+    "language": "telugu",
+    "timestamp": "2025-08-17 12:25:54"
+  },
+  {
+    "intent": "general",
+    "input": "naku leave letter kavali\n",
+    "letter": "To: [Recipient Name/Designation]\nFrom: [Your Name]\n[Your Employee ID]\n[Your Department]\n[Date]\n\n\nSubject: Application for Leave\n\nDear [Recipient Name/Designation],\n\nThis letter is to formally request a leave of absence from my duties.  I require leave for [Specify reason for leave if comfortable, otherwise omit this sentence.  E.g., personal reasons; medical reasons].\n\nI would like to be absent from work from [Start Date] to [End Date], inclusive, for a total of [Number] days. I have already [Mention if you've completed any handover process. E.g., completed my handover of ongoing tasks to [Colleague's Name]; made arrangements for the coverage of my responsibilities during my absence].\n\nI understand my responsibilities and will ensure minimal disruption to my team’s work during my absence.  I will be available via [Phone Number] and [Email Address] for urgent matters.\n\nThank you for your consideration of my request.\n\nSincerely,\n\n[Your Name]\n[Your Signature]",
+    "language": "english",
+    "timestamp": "2025-08-17 12:26:06"
+  },
+  {
+    "intent": "general",
+    "input": "naku pension ki apllication letter  kavali\n",
+    "letter": "```telugu\n[మీ పేరు]\n[మీ చిరునామా]\n[మీ ఫోన్ నెంబరు]\n[మీ ఇమెయిల్ చిరునామా]\n\n[తేదీ]\n\n\n[పెన్షన్ అధికారి పేరు]\n[పెన్షన్ కార్యాలయం పేరు]\n[పెన్షన్ కార్యాలయం చిరునామా]\n\n\nవిషయం: పెన్షన్ కోసం దరఖాస్తు\n\n\nగౌరవనీయ అధికారులవారు,\n\n\nనేను, [మీ పేరు], [మీ వయస్సు] సంవత్సరాల వయస్సు గల [మీ జాతి/కులం] వారు, [మీ చిరునామా] లో నివసిస్తున్నాను. నేను [మీ ఆదాయ వనరులు లేదా ఆదాయం లేకపోవడం గురించి వివరణ] కారణంగా పెన్షన్‌కు అర్హుడని నేను భావిస్తున్నాను.  దీనికి సంబంధించిన అన్ని అవసరమైన ధ్రువీకరణ పత్రాలను నేను జత చేస్తున్నాను.\n\n\nదయచేసి నా పెన్షన్ దరఖాస్తును పరిశీలించి, అవసరమైన చర్యలు తీసుకోవాలని కోరుతున్నాను.  మీ సహకారానికి ముందే కృతజ్ఞతలు.\n\n\nభక్తితో,\n[మీ సంతకం]\n[మీ పేరు]\n```\n\n**English Translation:**\n\n[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\n\n[Pension Officer's Name]\n[Pension Office Name]\n[Pension Office Address]\n\n\nSubject: Application for Pension\n\n\nRespected Sir/Madam,\n\n\nI, [Your Name], aged [Your Age] years, belonging to [Your Caste/Community], residing at [Your Address], humbly request you to consider my application for pension. I believe I am eligible for a pension due to [Explain your reason for needing a pension - lack of income, etc.].  I have attached all necessary supporting documents.\n\n\nKindly review my pension application and take necessary action. Thank you for your cooperation.\n\n\nSincerely,\n[Your Signature]\n[Your Typed Name]\n\n\n**Note:**  Remember to replace the bracketed information with your own details.  You will also need to attach the necessary supporting documents as mentioned in the letter.  The specific documents required will vary depending on your location and the pension scheme.  It's advisable to check with the pension office for a complete list of required documents.",
+    "language": "telugu",
+    "timestamp": "2025-08-17 12:26:46"
+  },
+  {
+    "intent": "general",
+    "input": "naku bus conductor mida complaint kavali",
+    "letter": "శ్రీమతి/శ్రీమంతులు,\n\n[బస్సు సంస్థ పేరు],\n[బస్సు డిపో చిరునామా],\n[నగరం/పట్టణం]\n\nవిషయం: బస్సు కండక్టర్ పై ఫిర్యాదు\n\nగౌరవనీయులైన అధికారుల వారికి,\n\nనేను [మీ పేరు], [మీ చిరునామా], [మీ ఫోన్ నంబర్], [మీ ఇమెయిల్ చిరునామా]  వద్ద నివసిస్తున్నాను. నేను తేదీ [తేదీ]న [బస్సు నంబర్] బస్సులో [ప్రయాణించిన మార్గం] మార్గంలో ప్రయాణించాను. ఆ సమయంలో బస్సు కండక్టర్ [కండక్టర్ పేరు, తెలిసితే] [ఫిర్యాదు వివరాలు - ఉదా: అసభ్యకరంగా మాట్లాడారు, టిక్కెట్ ఇవ్వలేదు, అధిక డబ్బులు వసూలు చేశారు, మొదలైనవి]  చేసారు.  దీనివలన నాకు తీవ్రమైన అవమానం, ఇబ్బందులు ఎదురయ్యాయి.\n\nకావున, దయచేసి ఈ విషయంపై తగిన చర్యలు తీసుకొని నాకు న్యాయం చేయాలని వినమ్రంగా కోరుతున్నాను.\n\nధన్యవాదాలతో,\n\n[మీ సంతకం]\n[మీ పేరు]\n[తేదీ]",
+    "language": "telugu",
+    "timestamp": "2025-08-17 12:31:08"
+  },
+  {
+    "intent": "general",
+    "input": "naku bus conductor mida complaint kavali",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\nThe Office of the [Relevant Authority, e.g., Regional Transport Authority, City Transport Commissioner]\n[Address of the Relevant Authority]\n\nSubject: Formal Complaint Regarding Misconduct of a Bus Conductor\n\nDear Sir/Madam,\n\nThis letter constitutes a formal complaint against a bus conductor employed by [Bus Company Name, if known, otherwise state \"an unidentified bus company\"].  I experienced unacceptable conduct from this individual on [Date of incident], at approximately [Time of incident] on bus route number [Bus Route Number, if known].\n\n[Clearly and concisely describe the incident.  Be specific and factual.  Avoid emotional language.  For example: \"The conductor was verbally abusive, using inappropriate language towards me and other passengers.  He refused to provide a ticket despite receiving the fare.\" or \"The conductor was negligent in his duties, failing to announce stops clearly and resulting in me missing my destination.\"  or \"The conductor demanded an excessive fare.\"]\n\nI request that you investigate this matter thoroughly and take appropriate disciplinary action against the conductor. I am available to provide further information or testimony as required.\n\nThank you for your time and attention to this complaint.\n\nSincerely,\n\n[Your Signature]\n[Your Typed Name]",
+    "language": "english",
+    "timestamp": "2025-08-17 12:31:45"
+  },
+  {
+    "intent": "general",
+    "input": "i want to write a complaint on class teacher ",
+    "letter": "❌ Gemini API error: Expecting value: line 1 column 1 (char 0)",
+    "language": "telugu",
+    "timestamp": "2025-08-17 12:35:41"
+  },
+  {
+    "intent": "general",
+    "input": "i want to write a complaint on class teacher ",
+    "letter": "❌ Gemini API error: Expecting value: line 1 column 1 (char 0)",
+    "language": "telugu",
+    "timestamp": "2025-08-17 12:35:58"
+  },
+  {
+    "intent": "general",
+    "input": "tc ki application letter kavali\n",
+    "letter": "సంబంధిత అధికారులకు,\n\nనమస్కారాలు.\n\nనేను ఈ క్షణం [నీవు పేరు] అని, [నీవు చిరునామా] నివాసిని అని తెలియజేస్తున్నాను.  నాకు నా తాత్కాలిక నివాసం (టిసి) కొరకు ఒక అప్లికేషన్ లెటర్ అవసరం. దీనికి సంబంధించిన అన్ని అవసరమైన వివరాలను అందించడానికి నేను సిద్ధంగా ఉన్నాను.  దయచేసి నాకు అవసరమైన అప్లికేషన్ లెటర్‌ను అందించగలరా అని కోరుతున్నాను.\n\nమీ సహకారం కొరకు ముందుగానే కృతజ్ఞతలు.\n\n\n[నీవు సంతకం]\n\n[నీవు తేదీ]",
+    "language": "telugu",
+    "timestamp": "2025-08-17 12:59:41"
+  },
+  {
+    "intent": "general",
+    "input": "tc ki application letter kavali\n",
+    "letter": "ప్రాథమిక వివరాలు అందించిన తర్వాతనే నేను మీకు తగిన  టీసీ (ప్రత్యయం లేదా  వివరణ అవసరం) కోసం  అప్లికేషన్ లెటర్ రాయగలను.  దయచేసి మీ పేరు, చిరునామా, సంబంధిత సంస్థ/విభాగం,  టీసీ అవసరమయ్యే కారణం మరియు ఇతర  సంబంధిత వివరాలను అందించండి.  అప్పుడు  నేను  ఒక  సంపూర్ణమైన మరియు  అధికారికమైన  అప్లికేషన్ లెటర్ ను  తయారు చేస్తాను.",
+    "language": "telugu",
+    "timestamp": "2025-08-17 13:00:18"
+  },
+  {
+    "intent": "general",
+    "input": "hr ki letter rayali sick leave kosam\n",
+    "letter": "విషయం: అనారోగ్య సెలవుకు దరఖాస్తు\n\nగౌరవనీయ శ్రీ/శ్రీమతి,\n\nమాననీయ [సంబంధిత అధికారి పేరు],\n[శాఖ పేరు],\n[శాఖ చిరునామా],\n\nనమస్కారాలు.\n\nనేను, [మీ పేరు], [మీ ఉద్యోగం], [మీ ఉద్యోగ సంఖ్య],  [తేదీ] నుండి [తేదీ] వరకు అనారోగ్యం కారణంగా సెలవు అవసరమని వినమ్రంగా కోరుతున్నాను.  నాకు [అనారోగ్యం గురించి సంక్షిప్తంగా వివరించండి,  ఉదా: జ్వరం,  తీవ్ర అస్వస్థత] ఉంది. దీనికి సంబంధించిన వైద్యుల ప్రమాణపత్రం  సమర్పించబడింది.\n\nకావున, నాకు అనారోగ్య సెలవు మంజూరు చేయాలని వినమ్రంగా కోరుతున్నాను.  సహకారం కొరకు ముందుగానే కృతజ్ఞతలు.\n\n\nభక్తితో,\n\n[మీ పేరు]\n[మీ సంతకం]\n[తేదీ]\n[మీ ఫోన్ నెంబర్]",
+    "language": "telugu",
+    "timestamp": "2025-08-17 13:01:36"
+  },
+  {
+    "intent": "general",
+    "input": "hr ki letter rayali sick leave kosam\n",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\n[Recipient Name/Department]\n[HR Department Name]\n[Organization Name]\n[Organization Address]\n\nSubject: Application for Sick Leave\n\nDear Sir/Madam,\n\nThis letter is to formally request a sick leave of absence.  I am currently experiencing illness that prevents me from performing my duties effectively.\n\nI request a leave of absence for [Number] days, commencing on [Start Date] and ending on [End Date]. I will keep you updated on my condition and expected return to work.\n\nThank you for your understanding and consideration in this matter.\n\nSincerely,\n\n[Your Name]\n[Your Employee ID Number, if applicable]",
+    "language": "english",
+    "timestamp": "2025-08-17 13:01:53"
+  },
+  {
+    "intent": "general",
+    "input": "నాకు సర్టిఫికెట్ కోసం అప్లికేషన్ లెటర్ కావాలి",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\n[Recipient Name/Title]\n[Department/Office Name]\n[Address]\n\nSubject: Application for Certificate\n\nDear Sir/Madam,\n\nI am writing to formally request the issuance of a certificate.  Please specify the type of certificate required.  [If known, add details such as the certificate's name, purpose, and any relevant reference numbers].\n\nI would be grateful if you could provide me with information regarding the process and necessary documentation required to obtain this certificate. I am available to provide any further information you may require.\n\nThank you for your time and consideration.\n\nSincerely,\n\n[Your Signature]\n[Your Typed Name]",
+    "language": "english",
+    "timestamp": "2025-08-17 13:10:44"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-08-17T12:59:41.902079",
+    "language": "Telugu",
+    "user_input": "tc ki application letter kavali\n",
+    "generated_letter": "సంబంధిత అధికారులకు,\n\nనమస్కారాలు.\n\nనేను ఈ క్షణం [నీవు పేరు] అని, [నీవు చిరునామా] నివాసిని అని తెలియజేస్తున్నాను.  నాకు నా తాత్కాలిక నివాసం (టిసి) కొరకు ఒక అప్లికేషన్ లెటర్ అవసరం. దీనికి సంబంధించిన అన్ని అవసరమైన వివరాలను అందించడానికి నేను సిద్ధంగా ఉన్నాను.  దయచేసి నాకు అవసరమైన అప్లికేషన్ లెటర్‌ను అందించగలరా అని కోరుతున్నాను.\n\nమీ సహకారం కొరకు ముందుగానే కృతజ్ఞతలు.\n\n\n[నీవు సంతకం]\n\n[నీవు తేదీ]"
+  },
+  {
+    "timestamp": "2025-08-17T13:00:18.971047",
+    "language": "Telugu",
+    "user_input": "tc ki application letter kavali\n",
+    "generated_letter": "ప్రాథమిక వివరాలు అందించిన తర్వాతనే నేను మీకు తగిన  టీసీ (ప్రత్యయం లేదా  వివరణ అవసరం) కోసం  అప్లికేషన్ లెటర్ రాయగలను.  దయచేసి మీ పేరు, చిరునామా, సంబంధిత సంస్థ/విభాగం,  టీసీ అవసరమయ్యే కారణం మరియు ఇతర  సంబంధిత వివరాలను అందించండి.  అప్పుడు  నేను  ఒక  సంపూర్ణమైన మరియు  అధికారికమైన  అప్లికేషన్ లెటర్ ను  తయారు చేస్తాను."
+  },
+  {
+    "timestamp": "2025-08-17T13:01:36.440148",
+    "language": "Telugu",
+    "user_input": "hr ki letter rayali sick leave kosam\n",
+    "generated_letter": "విషయం: అనారోగ్య సెలవుకు దరఖాస్తు\n\nగౌరవనీయ శ్రీ/శ్రీమతి,\n\nమాననీయ [సంబంధిత అధికారి పేరు],\n[శాఖ పేరు],\n[శాఖ చిరునామా],\n\nనమస్కారాలు.\n\nనేను, [మీ పేరు], [మీ ఉద్యోగం], [మీ ఉద్యోగ సంఖ్య],  [తేదీ] నుండి [తేదీ] వరకు అనారోగ్యం కారణంగా సెలవు అవసరమని వినమ్రంగా కోరుతున్నాను.  నాకు [అనారోగ్యం గురించి సంక్షిప్తంగా వివరించండి,  ఉదా: జ్వరం,  తీవ్ర అస్వస్థత] ఉంది. దీనికి సంబంధించిన వైద్యుల ప్రమాణపత్రం  సమర్పించబడింది.\n\nకావున, నాకు అనారోగ్య సెలవు మంజూరు చేయాలని వినమ్రంగా కోరుతున్నాను.  సహకారం కొరకు ముందుగానే కృతజ్ఞతలు.\n\n\nభక్తితో,\n\n[మీ పేరు]\n[మీ సంతకం]\n[తేదీ]\n[మీ ఫోన్ నెంబర్]"
+  },
+  {
+    "timestamp": "2025-08-17T13:01:53.645366",
+    "language": "English",
+    "user_input": "hr ki letter rayali sick leave kosam\n",
+    "generated_letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\n[Recipient Name/Department]\n[HR Department Name]\n[Organization Name]\n[Organization Address]\n\nSubject: Application for Sick Leave\n\nDear Sir/Madam,\n\nThis letter is to formally request a sick leave of absence.  I am currently experiencing illness that prevents me from performing my duties effectively.\n\nI request a leave of absence for [Number] days, commencing on [Start Date] and ending on [End Date]. I will keep you updated on my condition and expected return to work.\n\nThank you for your understanding and consideration in this matter.\n\nSincerely,\n\n[Your Name]\n[Your Employee ID Number, if applicable]"
+  },
+  {
+    "timestamp": "2025-08-17T13:10:44.953661",
+    "language": "English",
+    "user_input": "నాకు సర్టిఫికెట్ కోసం అప్లికేషన్ లెటర్ కావాలి",
+    "generated_letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\n[Recipient Name/Title]\n[Department/Office Name]\n[Address]\n\nSubject: Application for Certificate\n\nDear Sir/Madam,\n\nI am writing to formally request the issuance of a certificate.  Please specify the type of certificate required.  [If known, add details such as the certificate's name, purpose, and any relevant reference numbers].\n\nI would be grateful if you could provide me with information regarding the process and necessary documentation required to obtain this certificate. I am available to provide any further information you may require.\n\nThank you for your time and consideration.\n\nSincerely,\n\n[Your Signature]\n[Your Typed Name]"
+  }
+]

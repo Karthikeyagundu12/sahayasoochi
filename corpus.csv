@@ -1,0 +1,90 @@
+input,intent,source,letter
+"tc ki application letter kavali
+",general,text,"సంబంధిత అధికారులకు,
+
+నమస్కారాలు.
+
+నేను ఈ క్షణం [నీవు పేరు] అని, [నీవు చిరునామా] నివాసిని అని తెలియజేస్తున్నాను.  నాకు నా తాత్కాలిక నివాసం (టిసి) కొరకు ఒక అప్లికేషన్ లెటర్ అవసరం. దీనికి సంబంధించిన అన్ని అవసరమైన వివరాలను అందించడానికి నేను సిద్ధంగా ఉన్నాను.  దయచేసి నాకు అవసరమైన అప్లికేషన్ లెటర్‌ను అందించగలరా అని కోరుతున్నాను.
+
+మీ సహకారం కొరకు ముందుగానే కృతజ్ఞతలు.
+
+
+[నీవు సంతకం]
+
+[నీవు తేదీ]"
+"tc ki application letter kavali
+",general,text,"ప్రాథమిక వివరాలు అందించిన తర్వాతనే నేను మీకు తగిన  టీసీ (ప్రత్యయం లేదా  వివరణ అవసరం) కోసం  అప్లికేషన్ లెటర్ రాయగలను.  దయచేసి మీ పేరు, చిరునామా, సంబంధిత సంస్థ/విభాగం,  టీసీ అవసరమయ్యే కారణం మరియు ఇతర  సంబంధిత వివరాలను అందించండి.  అప్పుడు  నేను  ఒక  సంపూర్ణమైన మరియు  అధికారికమైన  అప్లికేషన్ లెటర్ ను  తయారు చేస్తాను."
+"hr ki letter rayali sick leave kosam
+",general,text,"విషయం: అనారోగ్య సెలవుకు దరఖాస్తు
+
+గౌరవనీయ శ్రీ/శ్రీమతి,
+
+మాననీయ [సంబంధిత అధికారి పేరు],
+[శాఖ పేరు],
+[శాఖ చిరునామా],
+
+నమస్కారాలు.
+
+నేను, [మీ పేరు], [మీ ఉద్యోగం], [మీ ఉద్యోగ సంఖ్య],  [తేదీ] నుండి [తేదీ] వరకు అనారోగ్యం కారణంగా సెలవు అవసరమని వినమ్రంగా కోరుతున్నాను.  నాకు [అనారోగ్యం గురించి సంక్షిప్తంగా వివరించండి,  ఉదా: జ్వరం,  తీవ్ర అస్వస్థత] ఉంది. దీనికి సంబంధించిన వైద్యుల ప్రమాణపత్రం  సమర్పించబడింది.
+
+కావున, నాకు అనారోగ్య సెలవు మంజూరు చేయాలని వినమ్రంగా కోరుతున్నాను.  సహకారం కొరకు ముందుగానే కృతజ్ఞతలు.
+
+
+భక్తితో,
+
+[మీ పేరు]
+[మీ సంతకం]
+[తేదీ]
+[మీ ఫోన్ నెంబర్]"
+"hr ki letter rayali sick leave kosam
+",general,text,"[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email Address]
+
+[Date]
+
+[Recipient Name/Department]
+[HR Department Name]
+[Organization Name]
+[Organization Address]
+
+Subject: Application for Sick Leave
+
+Dear Sir/Madam,
+
+This letter is to formally request a sick leave of absence.  I am currently experiencing illness that prevents me from performing my duties effectively.
+
+I request a leave of absence for [Number] days, commencing on [Start Date] and ending on [End Date]. I will keep you updated on my condition and expected return to work.
+
+Thank you for your understanding and consideration in this matter.
+
+Sincerely,
+
+[Your Name]
+[Your Employee ID Number, if applicable]"
+నాకు సర్టిఫికెట్ కోసం అప్లికేషన్ లెటర్ కావాలి,general,audio,"[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email Address]
+
+[Date]
+
+[Recipient Name/Title]
+[Department/Office Name]
+[Address]
+
+Subject: Application for Certificate
+
+Dear Sir/Madam,
+
+I am writing to formally request the issuance of a certificate.  Please specify the type of certificate required.  [If known, add details such as the certificate's name, purpose, and any relevant reference numbers].
+
+I would be grateful if you could provide me with information regarding the process and necessary documentation required to obtain this certificate. I am available to provide any further information you may require.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Signature]
+[Your Typed Name]"
