@@ -7,8 +7,8 @@ from datetime import datetime
 # =========================
 UI_TEXTS = {
     "en": {
-        "title": "📜 SahayaSoochi - Letter Generator",
-        "description": "Generate official letters in English or Telugu automatically.",
+        "title": "📜 SahayaSoochi",
+        "description": "AI Letter Generator for Every Occasion.",
         "input_type": "Choose Input Type:",
         "input_text": "✍️ Enter your request",
         "language_label": "Select output language:",
