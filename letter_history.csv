@@ -1,0 +1,44 @@
+intent,input,letter,language,timestamp,audio_file
+general,Audio only,"శ్రీమతి/శ్రీమంతులు,
+
+విషయం: ఆడియో రికార్డింగ్‌ కోసం అభ్యర్థన (ట్రాన్స్క్రిప్షన్ అవసరం లేదు)
+
+గౌరవనీయ అధికారులవారు,
+
+మా వినతిని దయచేసి స్వీకరించగలరు.  మేము [ప్రయోజనం/కారణం - ఉదా: విచారణ కోసం,  శిక్షణా కార్యక్రమం కోసం] ఆడియో రికార్డింగ్‌ను అభ్యర్థిస్తున్నాము.  ఈ ఆడియో రికార్డింగ్‌కు సంబంధించి ట్రాన్స్క్రిప్షన్ అవసరం లేదు.  దయచేసి మా అభ్యర్థనను అనుమతించి, ఆడియో రికార్డింగ్‌ను అందించేందుకు తగు చర్యలు తీసుకోవాలని వినమ్రంగా కోరుతున్నాము.
+
+[ప్రాంతం/పట్టణం],
+[తేదీ]
+
+భక్తిపూర్వకంగా,
+[మీ పేరు]
+[మీ చిరునామా]
+[మీ ఫోన్ నంబర్]
+[మీ ఇమెయిల్ చిరునామా]
+
+
+**Note:**  The bracketed information needs to be filled in by the user based on their specific context.  For example, ""[ప్రయోజనం/కారణం]"" needs to be replaced with the reason for the audio request.",telugu,2025-08-22 16:00:25,corpus_audio/audio_20250822_160016.wav
+general,Audio only,"[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email Address]
+
+[Date]
+
+[Government Department/Office Name]
+[Department/Office Address]
+
+Subject: Formal Request for Audio Recording – Reference Number [If Applicable]
+
+Dear Sir/Madam,
+
+This letter formally requests access to an audio recording.  This request is for the audio file itself, and no transcription services are required.
+
+Please provide details regarding the process for obtaining this recording, including any necessary forms or fees.  I am available to discuss this further at your convenience.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Signature]
+[Your Typed Name]",english,2025-08-22 16:00:40,corpus_audio/audio_20250822_160016.wav

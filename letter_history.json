@@ -504,5 +504,27 @@
     "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\n[Recipient Name/Title]\n[Department/Office Name]\n[Address]\n\nSubject: Application for Certificate\n\nDear Sir/Madam,\n\nI am writing to formally request the issuance of a certificate.  Please specify the type of certificate required.  [If known, add details such as the certificate's name, purpose, and any relevant reference numbers].\n\nI would be grateful if you could provide me with information regarding the process and necessary documentation required to obtain this certificate. I am available to provide any further information you may require.\n\nThank you for your time and consideration.\n\nSincerely,\n\n[Your Signature]\n[Your Typed Name]",
     "language": "english",
     "timestamp": "2025-08-17 13:10:44"
+  },
+  {
+    "intent": "general",
+    "input": "na peru pullaiah nenu bus lo pothune nathoni bus coductor miss behave che",
+    "letter": "విషయం: బస్సు డ్రైవర్/కండక్టర్ దురుసు ప్రవర్తన గురించి ఫిర్యాదు\n\nశ్రీ/శ్రీమతి,\n\nఆదరాభివందనాలు.\n\nనేను పుల్లయ్య. నేను [తేదీ] నాడు [బస్సు నెంబరు] బస్సులో ప్రయాణం చేస్తుండగా, బస్సు డ్రైవర్/కండక్టర్ నాతో దురుసుగా ప్రవర్తించారు.  [ప్రవర్తనను వివరించండి - ఉదాహరణకు: టిక్కెట్టు విషయంలో అనుచితంగా మాట్లాడారు, అనవసరంగా తిట్టారు, శారీరకంగా దాడి చేయడానికి ప్రయత్నించారు మొదలైనవి].  ఈ ప్రవర్తన నన్ను బాగా బాధించింది.\n\nదీనిపై తగిన చర్యలు తీసుకోవాలని వినమ్రంగా కోరుతున్నాను.  నేను ఈ ఫిర్యాదుకు సంబంధించిన  [ఏవైనా ఆధారాలు ఉంటే - ఉదాహరణకు సాక్షుల పేర్లు, ఫోటోలు మొదలైనవి] అందించడానికి సిద్ధంగా ఉన్నాను.\n\nమీ సహకారం కోసం కృతజ్ఞతలు.\n\nభక్తి శ్రద్ధతో,\n\nపుల్లయ్య\n\n[చిరునామా]\n[ఫోన్ నెంబర్]\n\n\n**Note:**  The bracketed information needs to be filled in by the user.  For example,  “[తేదీ]”, “[బస్సు నెంబరు]”, and “[ప్రవర్తనను వివరించండి]” need to be replaced with specific details.",
+    "language": "telugu",
+    "timestamp": "2025-08-21 20:10:17"
+  },
+  {
+    "intent": "general",
+    "input": "na peru pullaiah nenu bus lo pothune nathoni bus coductor miss behave che",
+    "letter": "[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\nThe Complaint Department\n[Bus Company Name]\n[Bus Company Address]\n\nSubject: Complaint Regarding Misbehavior of a Bus Conductor - [Date of Incident]\n\nDear Sir/Madam,\n\nI am writing to formally lodge a complaint regarding the unprofessional and unacceptable behavior of a bus conductor on your [Bus Route Number] bus on [Date of Incident].  My name is Pullaiah.\n\nWhile traveling on the aforementioned bus, I experienced extremely rude and inappropriate conduct from the conductor.  [Optional: Briefly and factually describe the misconduct without emotional language.  E.g., \"The conductor was verbally abusive,\" or \"The conductor refused to provide a ticket despite my request.\"]\n\nI request a thorough investigation into this matter and appropriate action taken against the conductor responsible for this misconduct. I believe passengers deserve to travel in a safe and respectful environment, free from harassment and unprofessional behavior.\n\nI would appreciate it if you could acknowledge receipt of this complaint and inform me of the steps taken to address this issue.\n\nThank you for your time and attention to this matter.\n\nSincerely,\n\nPullaiah",
+    "language": "english",
+    "timestamp": "2025-08-21 20:11:07"
+  },
+  {
+    "intent": "general",
+    "input": "నాకు లీవ్ లెటర్",
+    "letter": "శ్రీమతి/శ్రీమంతులు,\n\n[అధికారి పేరు],\n[శాఖ పేరు],\n[కార్యాలయం పేరు],\n[చిరునామా].\n\nవిషయం: సెలవు అర్జీ.\n\nగౌరవనీయులైన అధికారులవారికి,\n\nనమస్కారాలు. నేను [మీ పేరు], [మీ ఉద్యోగం], [శాఖ పేరు] లో పనిచేయుచున్నాను. నాకు  [తేదీ] నుండి [తేదీ] వరకు  [రోజుల సంఖ్య] రోజుల సెలవు అవసరం.  [సెలవు కారణం -  ఉదా: అనారోగ్యం,  కుటుంబ కార్యక్రమం,  వ్యక్తిగత కారణాలు]  కారణంగా ఈ సెలవు అవసరం అని మనవి చేస్తున్నాను.\n\nసెలవుకు అనుమతినిచ్చి,  కృపాచేసి అనుగ్రహించగలరని వినయपूర్వకంగా కోరుతున్నాను.\n\nధన్యవాదములతో,\n\n[మీ సంతకం]\n\n[మీ పేరు]\n[మీ ఉద్యోగం]\n[మీ ఐడి నంబర్]\n[తేదీ]",
+    "language": "telugu",
+    "input_source": "audio",
+    "timestamp": "2025-08-22 14:54:28"
   }
 ]

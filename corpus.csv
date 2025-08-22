@@ -1,4 +1,4 @@
-input,intent,source,letter
+input,intent,source,letter,input_source,audio_file,timestamp
 "tc ki application letter kavali
 ",general,text,"సంబంధిత అధికారులకు,
 
@@ -11,9 +11,9 @@ input,intent,source,letter
 
 [నీవు సంతకం]
 
-[నీవు తేదీ]"
+[నీవు తేదీ]",,,
 "tc ki application letter kavali
-",general,text,"ప్రాథమిక వివరాలు అందించిన తర్వాతనే నేను మీకు తగిన  టీసీ (ప్రత్యయం లేదా  వివరణ అవసరం) కోసం  అప్లికేషన్ లెటర్ రాయగలను.  దయచేసి మీ పేరు, చిరునామా, సంబంధిత సంస్థ/విభాగం,  టీసీ అవసరమయ్యే కారణం మరియు ఇతర  సంబంధిత వివరాలను అందించండి.  అప్పుడు  నేను  ఒక  సంపూర్ణమైన మరియు  అధికారికమైన  అప్లికేషన్ లెటర్ ను  తయారు చేస్తాను."
+",general,text,"ప్రాథమిక వివరాలు అందించిన తర్వాతనే నేను మీకు తగిన  టీసీ (ప్రత్యయం లేదా  వివరణ అవసరం) కోసం  అప్లికేషన్ లెటర్ రాయగలను.  దయచేసి మీ పేరు, చిరునామా, సంబంధిత సంస్థ/విభాగం,  టీసీ అవసరమయ్యే కారణం మరియు ఇతర  సంబంధిత వివరాలను అందించండి.  అప్పుడు  నేను  ఒక  సంపూర్ణమైన మరియు  అధికారికమైన  అప్లికేషన్ లెటర్ ను  తయారు చేస్తాను.",,,
 "hr ki letter rayali sick leave kosam
 ",general,text,"విషయం: అనారోగ్య సెలవుకు దరఖాస్తు
 
@@ -35,7 +35,7 @@ input,intent,source,letter
 [మీ పేరు]
 [మీ సంతకం]
 [తేదీ]
-[మీ ఫోన్ నెంబర్]"
+[మీ ఫోన్ నెంబర్]",,,
 "hr ki letter rayali sick leave kosam
 ",general,text,"[Your Name]
 [Your Address]
@@ -62,7 +62,7 @@ Thank you for your understanding and consideration in this matter.
 Sincerely,
 
 [Your Name]
-[Your Employee ID Number, if applicable]"
+[Your Employee ID Number, if applicable]",,,
 నాకు సర్టిఫికెట్ కోసం అప్లికేషన్ లెటర్ కావాలి,general,audio,"[Your Name]
 [Your Address]
 [Your Phone Number]
@@ -87,4 +87,184 @@ Thank you for your time and consideration.
 Sincerely,
 
 [Your Signature]
-[Your Typed Name]"
+[Your Typed Name]",,,
+na peru pullaiah nenu bus lo pothune nathoni bus coductor miss behave che,general,text,"విషయం: బస్సు డ్రైవర్/కండక్టర్ దురుసు ప్రవర్తన గురించి ఫిర్యాదు
+
+శ్రీ/శ్రీమతి,
+
+ఆదరాభివందనాలు.
+
+నేను పుల్లయ్య. నేను [తేదీ] నాడు [బస్సు నెంబరు] బస్సులో ప్రయాణం చేస్తుండగా, బస్సు డ్రైవర్/కండక్టర్ నాతో దురుసుగా ప్రవర్తించారు.  [ప్రవర్తనను వివరించండి - ఉదాహరణకు: టిక్కెట్టు విషయంలో అనుచితంగా మాట్లాడారు, అనవసరంగా తిట్టారు, శారీరకంగా దాడి చేయడానికి ప్రయత్నించారు మొదలైనవి].  ఈ ప్రవర్తన నన్ను బాగా బాధించింది.
+
+దీనిపై తగిన చర్యలు తీసుకోవాలని వినమ్రంగా కోరుతున్నాను.  నేను ఈ ఫిర్యాదుకు సంబంధించిన  [ఏవైనా ఆధారాలు ఉంటే - ఉదాహరణకు సాక్షుల పేర్లు, ఫోటోలు మొదలైనవి] అందించడానికి సిద్ధంగా ఉన్నాను.
+
+మీ సహకారం కోసం కృతజ్ఞతలు.
+
+భక్తి శ్రద్ధతో,
+
+పుల్లయ్య
+
+[చిరునామా]
+[ఫోన్ నెంబర్]
+
+
+**Note:**  The bracketed information needs to be filled in by the user.  For example,  “[తేదీ]”, “[బస్సు నెంబరు]”, and “[ప్రవర్తనను వివరించండి]” need to be replaced with specific details.",,,
+na peru pullaiah nenu bus lo pothune nathoni bus coductor miss behave che,general,text,"[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email Address]
+
+[Date]
+
+The Complaint Department
+[Bus Company Name]
+[Bus Company Address]
+
+Subject: Complaint Regarding Misbehavior of a Bus Conductor - [Date of Incident]
+
+Dear Sir/Madam,
+
+I am writing to formally lodge a complaint regarding the unprofessional and unacceptable behavior of a bus conductor on your [Bus Route Number] bus on [Date of Incident].  My name is Pullaiah.
+
+While traveling on the aforementioned bus, I experienced extremely rude and inappropriate conduct from the conductor.  [Optional: Briefly and factually describe the misconduct without emotional language.  E.g., ""The conductor was verbally abusive,"" or ""The conductor refused to provide a ticket despite my request.""]
+
+I request a thorough investigation into this matter and appropriate action taken against the conductor responsible for this misconduct. I believe passengers deserve to travel in a safe and respectful environment, free from harassment and unprofessional behavior.
+
+I would appreciate it if you could acknowledge receipt of this complaint and inform me of the steps taken to address this issue.
+
+Thank you for your time and attention to this matter.
+
+Sincerely,
+
+Pullaiah",,,
+నాకు లీవ్ లెటర్,general,audio,"శ్రీమతి/శ్రీమంతులు,
+
+[అధికారి పేరు],
+[శాఖ పేరు],
+[కార్యాలయం పేరు],
+[చిరునామా].
+
+విషయం: సెలవు అర్జీ.
+
+గౌరవనీయులైన అధికారులవారికి,
+
+నమస్కారాలు. నేను [మీ పేరు], [మీ ఉద్యోగం], [శాఖ పేరు] లో పనిచేయుచున్నాను. నాకు  [తేదీ] నుండి [తేదీ] వరకు  [రోజుల సంఖ్య] రోజుల సెలవు అవసరం.  [సెలవు కారణం -  ఉదా: అనారోగ్యం,  కుటుంబ కార్యక్రమం,  వ్యక్తిగత కారణాలు]  కారణంగా ఈ సెలవు అవసరం అని మనవి చేస్తున్నాను.
+
+సెలవుకు అనుమతినిచ్చి,  కృపాచేసి అనుగ్రహించగలరని వినయपूర్వకంగా కోరుతున్నాను.
+
+ధన్యవాదములతో,
+
+[మీ సంతకం]
+
+[మీ పేరు]
+[మీ ఉద్యోగం]
+[మీ ఐడి నంబర్]
+[తేదీ]",,,
+నాకు లీవ్ లెటర్,general,,"శ్రీమతి/శ్రీ,
+
+[అధికారి పేరు],
+[శాఖ పేరు],
+[శాఖ చిరునామా].
+
+విషయం:  అనారోగ్య సెలవు  (లేదా  సరైన సెలవు రకం - ఉదా:  పెళ్ళి సెలవు,  కార్యక్రమ సెలవు)  కోసం దరఖాస్తు.
+
+గౌరవనీయ అధికారులవారు,
+
+నేను [మీ పేరు], [మీ ఉద్యోగం], [విభాగం] లో పనిచేస్తున్నాను. నాకు [తేదీ నుండి] నుండి [తేదీ వరకు]  [సెలవు రకం - ఉదా: అనారోగ్యం,  వ్యక్తిగత కారణాలు] కారణంగా  [రోజుల సంఖ్య] రోజుల సెలవు అవసరం.  [అవసరమైతే వైద్య ధ్రువపత్రం లేదా ఇతర  పత్రాల గురించి వివరించండి].
+
+దయచేసి నా దరఖాస్తును అనుమతించి,  దయచేసి నాకు సహకరించాలని కోరుకుంటున్నాను.
+
+
+కృతజ్ఞతలుతో,
+
+
+[మీ సంతకం]
+[మీ పేరు]
+[మీ ఉద్యోగం]
+[మీ గుర్తింపు సంఖ్య]
+[తేదీ]",audio,,2025-08-22 15:15:51
+నాకు లోన్ కోసం అప్లికేషన్ లెటర్ కావాలి,general,,"[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email Address]
+
+[Date]
+
+[Loan Provider Name]
+[Loan Provider Address]
+
+Subject: Application for Loan
+
+Dear Sir/Madam,
+
+I am writing to formally request a loan from your esteemed institution.  I would appreciate it if you would consider my application.  I require further information regarding the application process, eligibility criteria, and required documentation.
+
+Please let me know what steps I need to take to proceed with my loan application. I am available to provide any additional information you may require.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Signature]
+
+[Your Typed Name]",audio,,2025-08-22 15:23:52
+నాకు లోన్ కోసం అప్లికేషన్ లెటర్ కావాలి,general,,"శ్రీ/శ్రీమతి,
+
+విషయం: ఋణ అప్లికేషన్
+
+గౌరవనీయ అధికారులవారికి,
+
+నమస్కారాలు.
+
+నేను [మీ పేరు], [మీ చిరునామా], [మీ ఫోన్ నెంబరు], [మీ ఇమెయిల్ చిరునామా] అనే చిరునామాలో నివసిస్తున్నాను. నేను [ఋణం తీసుకునే ఉద్దేశ్యం - ఉదా:  గృహ నిర్మాణం, వ్యాపారం, విద్య] కోసం [ఋణం మొత్తం] రూపాయల ఋణం కోసం వినమ్రంగా అభ్యర్థిస్తున్నాను.  నేను [మీ ఆదాయం/ఉద్యోగ వివరాలు]  మరియు నాకు [గతంలో తీసుకున్న ఋణాలు, వుంటే వివరణ]  ఉన్నాయి.  ఋణ మంజూరు కోసం అవసరమైన అన్ని వివరాలు మరియు పత్రాలను నేను అందించడానికి సిద్ధంగా ఉన్నాను.
+
+మీ అమూల్యమైన సహకారం కోసం ముందే కృతజ్ఞతలు.
+
+భక్తితో,
+
+[మీ పేరు]
+[మీ సంతకం]
+[తేదీ]",audio,,2025-08-22 15:24:09
+Audio only (not transcribed),general,,"శ్రీమతి/శ్రీమంతులు,
+
+విషయం: ఆడియో రికార్డింగ్‌ కోసం అభ్యర్థన (ట్రాన్స్క్రిప్షన్ అవసరం లేదు)
+
+గౌరవనీయ అధికారులవారు,
+
+మా వినతిని దయచేసి స్వీకరించగలరు.  మేము [ప్రయోజనం/కారణం - ఉదా: విచారణ కోసం,  శిక్షణా కార్యక్రమం కోసం] ఆడియో రికార్డింగ్‌ను అభ్యర్థిస్తున్నాము.  ఈ ఆడియో రికార్డింగ్‌కు సంబంధించి ట్రాన్స్క్రిప్షన్ అవసరం లేదు.  దయచేసి మా అభ్యర్థనను అనుమతించి, ఆడియో రికార్డింగ్‌ను అందించేందుకు తగు చర్యలు తీసుకోవాలని వినమ్రంగా కోరుతున్నాము.
+
+[ప్రాంతం/పట్టణం],
+[తేదీ]
+
+భక్తిపూర్వకంగా,
+[మీ పేరు]
+[మీ చిరునామా]
+[మీ ఫోన్ నంబర్]
+[మీ ఇమెయిల్ చిరునామా]
+
+
+**Note:**  The bracketed information needs to be filled in by the user based on their specific context.  For example, ""[ప్రయోజనం/కారణం]"" needs to be replaced with the reason for the audio request.",audio,audio_corpus\audio_20250822_160016.wav,2025-08-22 16:00:25
+Audio only (not transcribed),general,,"[Your Name]
+[Your Address]
+[Your Phone Number]
+[Your Email Address]
+
+[Date]
+
+[Government Department/Office Name]
+[Department/Office Address]
+
+Subject: Formal Request for Audio Recording – Reference Number [If Applicable]
+
+Dear Sir/Madam,
+
+This letter formally requests access to an audio recording.  This request is for the audio file itself, and no transcription services are required.
+
+Please provide details regarding the process for obtaining this recording, including any necessary forms or fees.  I am available to discuss this further at your convenience.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Signature]
+[Your Typed Name]",audio,audio_corpus\audio_20250822_160016.wav,2025-08-22 16:00:40
