@@ -3,12 +3,12 @@ name = "sahaya-soochi"
 version = "1.0.0"
 description = "SahayaSoochi - A beginner-friendly Streamlit app to generate all letters in Telugu and English using Gemini API"
 authors = [
-    { name = "SahayaSoochi Team", email = "karthikeyagundu2005@gmail.com" }
+    {name = "SahayaSoochi Team", email = "karthikeyagundu2005@gmail.com"}
 ]
-license = { text = "AGPL-3.0" }
+license = {text = "AGPL-3.0"}
 readme = "README.md"
 requires-python = ">=3.9"
-keywords = ["telugu", "government-letters", "ai", "streamlit", "gemini", "corpus", "bilingual"]
+keywords = ["telugu", "government-letters", "ai", "streamlit", "gemini", "bilingual"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Education",
@@ -30,7 +30,7 @@ dependencies = [
     "requests>=2.31.0",
     "python-dotenv>=1.0.1",
     "pillow>=10.2.0",
-    "google-generativeai>=0.3.0",  # Gemini API
+    "google-generativeai>=0.3.0",
     "pyyaml>=6.0.1",
 ]
 
@@ -58,56 +58,52 @@ Documentation = "https://sahayasoochi.readthedocs.io"
 target-version = "py39"
 line-length = 88
 src = ["app", "utils"]
-
 select = [
     "E", "W", "F", "I", "B", "C4", "UP", "N", "S",
     "T20", "Q", "RET", "SIM", "ARG", "DTZ", "ERA",
     "PD", "PGH", "PL", "TRY", "PERF", "LOG", "RUF"
 ]
-
 ignore = [
-    "E501",   # line too long
-    "T201",   # print statements (allowed in Streamlit)
+    "E501",
+    "T201",
 ]
-
 [tool.ruff.per-file-ignores]
 "__init__.py" = ["F401", "F403"]
 "tests/**/*.py" = ["S101"]
 
 # Mypy configuration
+[tool.mypy]
+python_version = "3.9"
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true
+strict_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+check_untyped_defs = true
+no_implicit_reexport = true
 
-[tool.uv]
-dev-dependencies = [
-    "pytest>=8.2",
-    "black>=24.4",
-    "isort>=5.13",
-    "flake8>=7.1",
-    "mypy>=1.10",
+# Pytest configuration
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+
+# Coverage configuration
+[tool.coverage.run]
+source = ["app", "utils"]
+omit = ["tests/*"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "if self.debug:",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
 ]
 
+# Build system (required by uv)
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
-
-[tool.black]
-line-length = 88
-target-version = ["py310"]
-
-[tool.isort]
-profile = "black"
-line_length = 88
-
-[tool.flake8]
-max-line-length = 88
-extend-ignore = ["E203", "W503"]
-
-[tool.mypy]
-python_version = "3.10"
-strict = true
-warn_return_any = true
-warn_unused_configs = true
-warn_unused_ignores = true
-warn_unreachable = true
-warn_redundant_casts = true
-warn_no_return = true
-
